@@ -36,6 +36,7 @@ function App() {
         </motion.div>
         
         <Social />
+        <Work />
         {/* router links*/}
         <Route path="/" component={Work} exact />
         <Route path="/about" component={About} />
