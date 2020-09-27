@@ -45,7 +45,7 @@ function App() {
 
         <Social />
         {/* router links*/}
-        <Route exact path="/work" component={Work} />
+        <Route exact path="/" component={Work} />
         <Route path="/about" component={About} />
         <Route path="/resume" component={Resume} />
         <Route path="/us-nursing" component={USN} />
