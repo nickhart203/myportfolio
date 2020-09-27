@@ -9,7 +9,7 @@ function Navbar() {
     <div className="container">
       <div className="navContainer">
         <div className="logo line-link inline-block">
-          <Link to="/">Nick Hart </Link>
+          <Link to="/work">Nick Hart </Link>
         </div>
         <div className="nav-items inline-block">
           <div className="nav-item line-link">
