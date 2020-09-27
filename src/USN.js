@@ -19,9 +19,14 @@ import { motion } from "framer-motion";
 function USN(props) {
   return (
     <div>
+      <div className="pageContainer">
+        <WorkHeader title="US Nursing" meta="Product Design" />
 
-        <div className="pageContainer">
-          <WorkHeader title="US Nursing" meta="Product Design" />
+        <motion.div
+          initial={{ y: 25, opacity: 0 }}
+          animate={{ y: 0, opacity: 1 }}
+          transition={{ delay: 0.5, ease: "easeOut", duration: 0.75 }}
+        >
           <WorkHeroImage
             image={usn1}
             alt="Coachella Mobile"
@@ -76,8 +81,8 @@ function USN(props) {
             header="Design System"
             body="Of course a design system was delivered and I was in charge of putting it together. Above is just a preview of the full pdf document that we handed over. This helped the Goldenvoice team continue to expand the website as needed."
           />
-        </div>
-
+        </motion.div>
+      </div>
     </div>
   );
 }

@@ -16,13 +16,6 @@ import DisplayGroup from "./DisplayGroup.js";
 import USN from "./USN.js";
 import Meritus from "./Meritus.js";
 import Drumnow from "./Drumnow.js";
-import Thumbnail from "./Thumbnail.js";
-import usnThumb from "./assets/img/usn-thumbnail.jpg";
-import coachellaThumb from "./assets/img/coachella-thumbnail.jpg";
-import coalesseThumb from "./assets/img/coalesse-thumbnail.jpg";
-import displaygroupThumb from "./assets/img/displaygroup-thumbnail.jpg";
-import meritusThumb from "./assets/img/meritus-thumbnail.jpg";
-import drumnowThumb from "./assets/img/drumnow-thumbnail.jpg";
 import { motion } from "framer-motion";
 
 
