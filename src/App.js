@@ -1,7 +1,7 @@
 // App.jsx
 
 import React from "react";
-import { BrowserRouter, Route, Link } from "react-router-dom";
+import { HashRouter, Route, Link } from "react-router-dom";
 import Work from "./Work.js";
 import About from "./About.js";
 import Resume from "./Resume.js";
@@ -28,7 +28,7 @@ import { motion } from "framer-motion";
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <ScrollToTop />
       <style>
         @import
@@ -59,7 +59,7 @@ function App() {
 
         <Footer />
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
