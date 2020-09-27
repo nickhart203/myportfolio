@@ -32,7 +32,7 @@ function Coalesse(props) {
           />
           <ProjectImage
             image={coalesse1}
-            alt="Coachella Mobile"
+            alt="Coalesse Mobile Design"
             newclass="mobile-scale-img"
           />
 
@@ -42,7 +42,7 @@ function Coalesse(props) {
           />
           <ProjectImage
             image={coalesse2}
-            alt="Coachella UI"
+            alt="Coalesse Desktop Design"
             newclass="mobile-scale-img"
           />
           <ProjectTextRightUp

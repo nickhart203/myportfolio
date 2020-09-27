@@ -7,6 +7,7 @@ import ProjectImage from "./ProjectImage.js";
 import ProjectTextRight from "./ProjectTextRight.js";
 import ProjectTextRightUp from "./ProjectTextRightUp.js";
 import ProjectTextLeft from "./ProjectTextLeft.js";
+import ProjectTextLeftUp from "./ProjectTextLeftUp.js";
 import displaygroup1 from "./assets/img/displaygroup-1.jpg";
 import displaygroup2 from "./assets/img/displaygroup-2.jpg";
 import displaygroupThumb from "./assets/img/displaygroup-thumbnail.jpg";
@@ -22,33 +23,33 @@ function DisplayGroup(props) {
           animate={{ y: 0, opacity: 1 }}
           transition={{ delay: 0.5, ease: "easeOut", duration: 0.75 }}
         >
-          <WorkHeroImage image={displaygroupThumb} alt="Coachella Mobile" />
+          <WorkHeroImage image={displaygroupThumb} alt="Display Group Design" />
           <ProjectDescription
             detail1="UX/UI Design"
             detail2="Visual Design"
             detail3=""
             detail4=""
-            header="Bringing a beautiful brand forward to shine in today's digital landscape"
-            body="The Coalesse project was a full redesign initiative that involved researching its primary users and restructuring the site map in key areas. When it was all said and done, both in usability and in aesthetics, the website embodied everything the Coalesse team hoped it would."
+            header="Delivering excitement and entertainment"
+            body="Display Group came to us with a very outdated web presence that did not do their service justice. They are an entertainment speciality service that can bring larger than life installations to your event, but also dance in the finer, more sophisticated gatherings as well."
           />
           <ProjectImage
             image={displaygroup1}
-            alt="Coachella Mobile"
+            alt="Display Group Design"
             newclass="mobile-scale-img"
           />
 
-          <ProjectTextLeft
-            header="A foundation in research"
-            body="The Coalesse website is used primarily for interior designers as a tool to help them spec their work. I worked with the Coalesse team and received a handful of recorded user interviews to review and help me learn the in's and out's of their process on the site."
+          <ProjectTextLeftUp
+            header="Reworking the approach"
+            body="We worked with their team to target their goals for the website and help them elevate both the promotional aspects as well as the informative aspects of their website. We changed up their sitemap and the way they educate customers about their products and services."
           />
           <ProjectImage
             image={displaygroup2}
-            alt="Coachella UI"
+            alt="Display Group Design"  
             newclass="mobile-scale-img"
           />
-          <ProjectTextRightUp
-            header="One to remember"
-            body="It was truly a rewarding experience to get inside the heads of the interior designers as well as collaborating with the Coalesse team to help move the project forward as efficiently as possible. It was also refreshing to be apart of a redesign that had such a modern visual system that I'm confident will last a long time."
+          <ProjectTextRight
+            header="An experience to increase customer engagement"
+            body="Ultimately, the website succeeded in placing a greater priority in the presentation of information as well as how customers can use the site in their own event creation process. Display Group is now positioned as a more reputable brand for entertainment services."
           />
         </motion.div>
       </div>

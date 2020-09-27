@@ -4,6 +4,7 @@ import WorkHeader from "./WorkHeader.js";
 import WorkHeroVideo from "./WorkHeroVideo.js";
 import WorkHeroImage from "./WorkHeroImage.js";
 import ProjectDescription from "./ProjectDescription.js";
+import ProjectDescriptionUp from "./ProjectDescriptionUp.js";
 import ProjectImage from "./ProjectImage.js";
 import ProjectTextRight from "./ProjectTextRight.js";
 import ProjectTextRightUp from "./ProjectTextRightUp.js";
@@ -29,58 +30,54 @@ function USN(props) {
         >
           <WorkHeroImage
             image={usn1}
-            alt="Coachella Mobile"
+            alt="USN Proudct Design"
             newclass="mobile-scale-img"
           />
-          <ProjectDescription
+          <ProjectDescriptionUp
             detail1="Visual Design"
             detail2="Design System"
             detail3="Animation"
             detail4="Branding"
-            header="Transforming the Coachella website for the year 2020"
-            body="With another year coming around for the festival, Goldenvoice, parent company of Coachella, needed a new theme and a new look to embody what it means to attend the priceless weekend at the grounds of Empire Polo Club. "
+            header="Coordinating nurses at a moments notice"
+            body="US Nursing specializes in placing nurses where they're needed most during critical strikes. Oftentimes hospitals become short staffed in key moments and they rely on services such as US Nursing to keep things moving along promptly, and efficiently."
           />
           <WorkHeroVideo video="https://player.vimeo.com/video/459952948?api=1&amp;autoplay=1&amp;background=1&amp;loop=1&amp;muted=1" />
 
           <ProjectTextLeft
-            header="Leave Your Mark"
-            body="Three concepts were pitched to the client and mine was chosen. Titled 'Leave Your Mark,' the 2020 theme was all about expression and human elements of creativity. I even got the green light to create the hero animation of which we aptly dubbed 'The Spirit of Coachella'."
+            header="Getting new users in quickly and seamlessly"
+            body="It became clear from the original release of the app that nurses were becoming quite frustrated during the account creation process. Because of this, and stakeholder input, a lot of energy was poured into making this flow fluid and pain-free."
           />
           <ProjectImage
             image={usn2}
-            alt="Coachella UI"
+            alt="USN Proudct Design Onboarding"
             newclass="mobile-scale-img"
           />
 
           <ProjectTextRightUp
-            header="Design System"
-            body="Of course a design system was delivered and I was in charge of putting it together. Above is just a preview of the full pdf document that we handed over. This helped the Goldenvoice team continue to expand the website as needed."
+            header="Informative and welcoming"
+            body="Onboarding screens were deemed crucial for alleviating the potential stress of information overload. For this reason, I designed a large set of illustrations that would eventually animate and aid in a more pleasant experience as users entered the key areas of the app."
           />
-          <ProjectImage image={usn3} alt="Coachella UI" />
+          <ProjectImage image={usn3} alt="USN Proudct Design System" />
           <ProjectTextLeft
-            header="Design System"
-            body="Of course a design system was delivered and I was in charge of putting it together. Above is just a preview of the full pdf document that we handed over. This helped the Goldenvoice team continue to expand the website as needed."
+            header="Design system"
+            body="I put together all the working parts of the design system inside Figma to foster consistency and to serve as a foundation for the new designs. This helped the visual design move forward without redundancy."
           />
           <WorkHeroVideo video="https://player.vimeo.com/video/459954812?api=1&amp;autoplay=1&amp;background=1&amp;loop=1&amp;muted=1" />
           <ProjectTextRight
-            header="Animated Illustrations"
-            body="Another designer already drew up the beautiful set of illustrations to be used on the site, so we thought it would be a great idea if I were to animate them as if they were being painted in with watercolor. This effect was used in transitions, such as the hero on page load and as a user moved through the navigation. These were limited to desktop only to preserve performance on mobile."
+            header="Branded animations"
+            body="Some finishing touches to the UI included some extra brand enforcers to tie everything together. The example above is a loader animation which takes a playful approach of the N from the new logo, which swaps between the two primary brand colors."
           />
-          <ProjectImage image={usn4} alt="Coachella UI" />
+          <ProjectImage image={usn4} alt="USN Branding" />
           <ProjectTextLeft
-            header="Brand Guidelines"
-            body="Of course a design system was delivered and I was in charge of putting it together. Above is just a preview of the full pdf document that we handed over. This helped the Goldenvoice team continue to expand the website as needed."
+            header="Brand guidelines"
+            body="This project started off with a branding initiative that I lead and owned fully. This involved an update of logo, color, typography, graphic form, and more, and served as the backbone for the visual design of the app as the project progressed."
           />
-          <ProjectImage image={usn5} alt="Coachella UI" />
+          <ProjectImage image={usn5} alt="USN Branding" />
           <ProjectTextRight
-            header="Animated Illustrations"
-            body="Another designer already drew up the beautiful set of illustrations to be used on the site, so we thought it would be a great idea if I were to animate them as if they were being painted in with watercolor. This effect was used in transitions, such as the hero on page load and as a user moved through the navigation. These were limited to desktop only to preserve performance on mobile."
+            header="Setting the rules"
+            body="Of course, I created a set of rules to adhere to in order for the brand to succeed to the fullest. Here are some examples of what can be found inside the guidelines document."
           />
-          <ProjectImage image={usn6} alt="Coachella UI" />
-          <ProjectTextLeft
-            header="Design System"
-            body="Of course a design system was delivered and I was in charge of putting it together. Above is just a preview of the full pdf document that we handed over. This helped the Goldenvoice team continue to expand the website as needed."
-          />
+          <ProjectImage image={usn6} alt="USN Branding" />
         </motion.div>
       </div>
     </div>

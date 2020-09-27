@@ -72,36 +72,42 @@ function Work(props) {
             image={usnThumb}
             title="US Nursing"
             subtext="Product Design"
+            alt="USN App Design"
           />
           <Thumbnail
             link="/coachella"
             image={coachellaThumb}
             title="Coachella 2020"
             subtext="Visual Design & Animation"
+            alt="Coachella 2020 website"
           />
           <Thumbnail
             link="/coalesse"
             image={coalesseThumb}
             title="Coalesse"
             subtext="UX/UI Website Redesign"
+            alt="Coalesse Website Redesign"
           />
           <Thumbnail
             link="/drumnow"
             image={drumnowThumb}
             title="Drumnow"
             subtext="Product Design"
+            alt="Drumnow App Design"
           />
           <Thumbnail
             link="/meritus"
             image={meritusThumb}
             title="Meritus Communities"
             subtext="UX Case Study"
+            alt="Meritus UX Design"
           />
           <Thumbnail
             link="/display-group"
             image={displaygroupThumb}
             title="Display Group"
             subtext="UX/UI Website Redesign"
+            alt="Display Group Redesign"
           />
         </motion.li>
       </motion.ul>

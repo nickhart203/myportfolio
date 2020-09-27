@@ -107,7 +107,7 @@ ul {
   padding: 15em 0;
 }
 .subtract-top {
-  padding-top: 10em;
+  padding-top: 9em !important;
 }
 .inline-block {
   display: inline-block;
@@ -326,6 +326,7 @@ a.line-link-lg {
   z-index: 10;
   align-content: center;
   flex-basis: 65%;
+  
 }
 .social-container-footer .socialIcon-container {
   display: inline-block;
@@ -347,7 +348,7 @@ a.line-link-lg {
 }
 .footer-container {
   background-color: #fbfbfb;
-  padding: 48px;
+  padding: 7% 48px;
   display: flex;
 }
 .footer-text-container {
@@ -385,6 +386,7 @@ a.line-link-lg {
   text-indent: 2px;
 }
 .workHero-image {
+  overflow: hidden;
 }
 
 .workHero-image img {
@@ -500,7 +502,7 @@ a.line-link-lg {
     padding: 0 5.5vw;
   }
   .footer-container {
-    padding: 5vw;
+    padding: 7% 5vw;
   }
 }
 
@@ -535,7 +537,7 @@ a.line-link-lg {
     margin-bottom: 2em;
   }
   .footer-container {
-    padding: 24px;
+    padding: 7% 24px;
   }
   .footer-text-container {
     line-height: 16px;

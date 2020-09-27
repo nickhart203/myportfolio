@@ -32,7 +32,7 @@ function Coachella(props) {
           />
           <ProjectImage
             image={coachella2}
-            alt="Coachella Mobile"
+            alt="Coachella Mobile Design"
             newclass="mobile-scale-img"
           />
 
@@ -40,19 +40,19 @@ function Coachella(props) {
             header="Leave Your Mark"
             body="Three concepts were pitched to the client and mine was chosen. Titled 'Leave Your Mark,' the 2020 theme was all about expression and human elements of creativity. I even got the green light to create the hero animation of which we aptly dubbed 'The Spirit of Coachella'."
           />
-          <ProjectImage image={coachella1} alt="Coachella UI" />
+          <ProjectImage image={coachella1} alt="Coachella Design System" />
           <ProjectTextRight
-            header="Design System"
+            header="Design system"
             body="Of course a design system was delivered and I was in charge of putting it together. Above is just a preview of the full pdf document that we handed over. This helped the Goldenvoice team continue to expand the website as needed."
           />
           <WorkHeroVideo video="https://player.vimeo.com/video/458830722?api=1&amp;autoplay=1&amp;background=1&amp;loop=1&amp;muted=1" />
           <ProjectTextLeft
-            header="Animated Illustrations"
+            header="Animated illustrations"
             body="Another designer already drew up the beautiful set of illustrations to be used on the site, so we thought it would be a great idea if I were to animate them as if they were being painted in with watercolor. This effect was used in transitions, such as the hero on page load and as a user moved through the navigation. These were limited to desktop only to preserve performance on mobile."
           />
           <WorkHeroVideo video="https://player.vimeo.com/video/459585534?api=1&amp;autoplay=1&amp;background=1&amp;loop=1&amp;muted=1" />
           <ProjectTextRight
-            header="Motion Studies for Days"
+            header="Motion studies for days"
             body="I live for motion and bringing the natural world into the products people use. For this reason, I have a plethora of animated prototypes and motion studies that were used to communicate with development on how components and pages should behave."
           />
         </motion.div>

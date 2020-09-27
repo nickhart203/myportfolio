@@ -6,7 +6,7 @@ function ProjectDescription(props) {
     <section>
       <div className="container">
         <div className={props.newclass}>
-          <div className="descriptionContainer">
+          <div className="descriptionContainer subtract-top">
             <div className="col-sm inline-block">
               <ul>
                 <h5>Details</h5>
