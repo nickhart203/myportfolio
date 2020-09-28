@@ -61,7 +61,6 @@ h2 {
   font-size: 48px;
   letter-spacing: -0.1rem;
   font-weight: 300;
-  
 }
 h3 {
   font-size: 32px;
@@ -326,7 +325,6 @@ a.line-link-lg {
   z-index: 10;
   align-content: center;
   flex-basis: 65%;
-  
 }
 .social-container-footer .socialIcon-container {
   display: inline-block;
@@ -417,7 +415,6 @@ a.line-link-lg {
   -ms-flex: 0 0 32%;
   flex: 0 0 32%;
   margin-bottom: 16em;
-  
 }
 .aboutHeaderContainer h2 {
   margin: 0;
@@ -549,6 +546,9 @@ a.line-link-lg {
   .aboutHeaderContainer {
     margin-bottom: 32px;
   }
+  .subtract-top {
+    padding-top: 0em !important;
+  }
   .logo,
   div.nav-items {
     padding: 0 24px;
@@ -602,8 +602,7 @@ a.line-link-lg {
   }
   .aboutHeaderContainer .side-col-lg {
     padding-top: 4em;
-    
-}
+  }
   .col-sm {
     margin-bottom: 2em;
   }
@@ -663,6 +662,9 @@ a.line-link-lg {
     line-height: 32px;
     max-width: 80%;
   }
+  .subtract-top {
+    padding-top: 4em !important;
+}
   .side-image {
     -webkit-flex: 0 0 100%;
     -ms-flex: 0 0 100%;
