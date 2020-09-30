@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.4d9f01f0.chunk.css",
-    "main.js": "/static/js/main.2dc4dde8.chunk.js",
-    "main.js.map": "/static/js/main.2dc4dde8.chunk.js.map",
+    "main.js": "/static/js/main.def2bb5c.chunk.js",
+    "main.js.map": "/static/js/main.def2bb5c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
-    "static/js/2.4c59e18b.chunk.js": "/static/js/2.4c59e18b.chunk.js",
-    "static/js/2.4c59e18b.chunk.js.map": "/static/js/2.4c59e18b.chunk.js.map",
+    "static/js/2.807bd7be.chunk.js": "/static/js/2.807bd7be.chunk.js",
+    "static/js/2.807bd7be.chunk.js.map": "/static/js/2.807bd7be.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.385d271560bae79c0dda8f0fd6a8ebba.js": "/precache-manifest.385d271560bae79c0dda8f0fd6a8ebba.js",
+    "precache-manifest.89bb0408c8cc60e0fa5ad2976728f072.js": "/precache-manifest.89bb0408c8cc60e0fa5ad2976728f072.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.4d9f01f0.chunk.css.map": "/static/css/main.4d9f01f0.chunk.css.map",
-    "static/js/2.4c59e18b.chunk.js.LICENSE.txt": "/static/js/2.4c59e18b.chunk.js.LICENSE.txt",
+    "static/js/2.807bd7be.chunk.js.LICENSE.txt": "/static/js/2.807bd7be.chunk.js.LICENSE.txt",
     "static/media/01-dribbble-2x.svg": "/static/media/01-dribbble-2x.4dd6575c.svg",
     "static/media/01-instagram-2x.svg": "/static/media/01-instagram-2x.c17bd8b1.svg",
     "static/media/01-linkedin-2x.svg": "/static/media/01-linkedin-2x.ca496b03.svg",
@@ -40,6 +40,7 @@
     "static/media/meritus-5.jpg": "/static/media/meritus-5.226ebbbd.jpg",
     "static/media/meritus-6.jpg": "/static/media/meritus-6.f28a734e.jpg",
     "static/media/meritus-thumbnail.jpg": "/static/media/meritus-thumbnail.224accf7.jpg",
+    "static/media/portfolio-thumbnail.jpg": "/static/media/portfolio-thumbnail.bd3c608c.jpg",
     "static/media/reel-thumbnail.jpg": "/static/media/reel-thumbnail.f34660ec.jpg",
     "static/media/resume_nickhart.pdf": "/static/media/resume_nickhart.a67f5300.pdf",
     "static/media/usn-1.jpg": "/static/media/usn-1.6118eb39.jpg",
@@ -52,8 +53,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
-    "static/js/2.4c59e18b.chunk.js",
+    "static/js/2.807bd7be.chunk.js",
     "static/css/main.4d9f01f0.chunk.css",
-    "static/js/main.2dc4dde8.chunk.js"
+    "static/js/main.def2bb5c.chunk.js"
   ]
 }
