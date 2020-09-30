@@ -10,6 +10,7 @@ import meritusThumb from "./assets/img/meritus-thumbnail.jpg";
 import drumnowThumb from "./assets/img/drumnow-thumbnail.jpg";
 import hexaThumb from "./assets/img/hexa-thumbnail.jpg";
 import reelThumb from "./assets/img/reel-thumbnail.jpg";
+import portfolioThumb from "./assets/img/portfolio-thumbnail.jpg";
 
 import { motion } from "framer-motion";
 
@@ -125,6 +126,13 @@ function Work(props) {
             title="Reel 2018"
             subtext="Animation"
             alt="2018 animations"
+          />
+          <Thumbnail
+            link="/portfolio"
+            image={portfolioThumb}
+            title="Portfolio"
+            subtext="Design / Dev"
+            alt="2020 portfolio site"
           />
         </motion.li>
       </motion.ul>

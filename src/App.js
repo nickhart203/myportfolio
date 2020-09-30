@@ -19,6 +19,7 @@ import Meritus from "./Meritus.js";
 import Drumnow from "./Drumnow.js";
 import Hexa from "./Hexa.js";
 import Reel from "./Reel.js";
+import Portfolio from "./Portfolio.js";
 
 
 function App() {
@@ -51,6 +52,7 @@ function App() {
         <Route path="/display-group" component={DisplayGroup} />
         <Route path="/hexa" component={Hexa} />
         <Route path="/reel" component={Reel} />
+        <Route path="/portfolio" component={Portfolio} />
 
         
 
