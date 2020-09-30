@@ -2,6 +2,7 @@
 
 import React from "react";
 import { HashRouter, Route, Link } from "react-router-dom";
+import { motion } from "framer-motion";
 import Work from "./Work.js";
 import About from "./About.js";
 import Resume from "./Resume.js";
@@ -16,7 +17,8 @@ import DisplayGroup from "./DisplayGroup.js";
 import USN from "./USN.js";
 import Meritus from "./Meritus.js";
 import Drumnow from "./Drumnow.js";
-import { motion } from "framer-motion";
+import Hexa from "./Hexa.js";
+import Reel from "./Reel.js";
 
 
 function App() {
@@ -47,6 +49,8 @@ function App() {
         <Route path="/coalesse" component={Coalesse} />
         <Route path="/meritus" component={Meritus} />
         <Route path="/display-group" component={DisplayGroup} />
+        <Route path="/hexa" component={Hexa} />
+        <Route path="/reel" component={Reel} />
 
         
 

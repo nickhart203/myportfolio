@@ -1,24 +1,31 @@
 import React from "react";
 import "./App.css";
+import WorkHeader from "./WorkHeader.js";
+import WorkHeroVideo from "./WorkHeroVideo.js";
+import ProjectDescription from "./ProjectDescription.js";
+import ProjectTextLeft from "./ProjectTextLeft.js";
+import { motion } from "framer-motion";
 
 function Reel(props) {
   return (
     <div>
       <div className="pageContainer">
-        <h2>2018 Reel</h2>
-        <p>
-          Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas
-          eget quam. Vivamus sagittis lacus vel augue laoreet rutrum faucibus
-          dolor auctor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum sociis
-          natoque penatibus et magnis dis parturient montes, nascetur ridiculus
-          mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-          Cras justo odio, dapibus ac facilisis in, egestas eget quam. Duis
-          mollis, est non commodo luctus, nisi erat porttitor ligula, eget
-          lacinia odio sem nec elit. Vestibulum id ligula porta felis euismod
-          semper. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor
-          auctor.
-        </p>
+        <WorkHeader title="2018 Reel" meta="Animation" />
+        <motion.div
+          initial={{ y: 25, opacity: 0 }}
+          animate={{ y: 0, opacity: 1 }}
+          transition={{ delay: 0.5, ease: "easeOut", duration: 0.75 }}
+        >
+          <WorkHeroVideo video="https://player.vimeo.com/video/254797413?api=1&amp;autoplay=1&amp;background=1&amp;loop=1&amp;muted=1" />
+          <ProjectDescription
+            detail1="Animation"
+            detail2="2d / 3d"
+            detail3=""
+            detail4=""
+            header="Some works that I've done in the past"
+            body="Though this reel is a bit out of date now, I'll have a newer version before year's end. This is a collection of playful exploration and commissioned work. I really enjoy improving skills in all avenues of design and I definitely have the tools to keep practicing more in-depth 3d work."
+          />
+        </motion.div>
       </div>
     </div>
   );

@@ -8,6 +8,9 @@ import coalesseThumb from "./assets/img/coalesse-thumbnail.jpg";
 import displaygroupThumb from "./assets/img/displaygroup-thumbnail.jpg";
 import meritusThumb from "./assets/img/meritus-thumbnail.jpg";
 import drumnowThumb from "./assets/img/drumnow-thumbnail.jpg";
+import hexaThumb from "./assets/img/hexa-thumbnail.jpg";
+import reelThumb from "./assets/img/reel-thumbnail.jpg";
+
 import { motion } from "framer-motion";
 
 const list = {
@@ -109,10 +112,24 @@ function Work(props) {
             subtext="UX/UI Website Redesign"
             alt="Display Group Redesign"
           />
+          <Thumbnail
+            link="/hexa"
+            image={hexaThumb}
+            title="Hexa Custom"
+            subtext="Animation"
+            alt="Hexa web animation"
+          />
+          <Thumbnail
+            link="/reel"
+            image={reelThumb}
+            title="Reel 2018"
+            subtext="Animation"
+            alt="2018 animations"
+          />
         </motion.li>
       </motion.ul>
     </div>
-  );
+  ); 
 }
 
 export default Work;
