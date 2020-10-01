@@ -5,7 +5,7 @@ import WorkHeroImage from "./WorkHeroImage.js";
 import ProjectDescription from "./ProjectDescription.js";
 import ProjectImage from "./ProjectImage.js";
 import ProjectTextRight from "./ProjectTextRight.js";
-import ProjectTextRightUp from "./ProjectTextRightUp.js";
+import ProjectTextLeftUp from "./ProjectTextLeftUp.js";
 import ProjectTextLeft from "./ProjectTextLeft.js";
 import drumnow1 from "./assets/img/drumnow-1.jpg";
 import drumnow2 from "./assets/img/drumnow-2.jpg";
