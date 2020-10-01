@@ -62,19 +62,23 @@ function USN(props) {
             header="Design system"
             body="I put together all the working parts of the design system inside Figma to foster consistency and to serve as a foundation for the new designs. This helped the visual design move forward without redundancy."
           />
-          <WorkHeroVideo video="https://player.vimeo.com/video/459952948?api=1&amp;autoplay=1&amp;background=1&amp;loop=1&amp;muted=1" />
+          <WorkHeroVideo video="https://player.vimeo.com/video/463651346?api=1&amp;autoplay=1&amp;background=1&amp;loop=1&amp;muted=1" />
           <ProjectTextRight
             header="Branded animations"
-            body="Some finishing touches to the UI included some extra brand enforcers to tie everything together. The example above is a loader animation which takes a playful approach of the N from the new logo, which swaps between the two primary brand colors."
+            body="Some finishing touches to the UI included some extra brand enforcers to tie everything together."
           />
-          <WorkHeroVideo video="https://player.vimeo.com/video/463651346?api=1&amp;autoplay=1&amp;background=1&amp;loop=1&amp;muted=1" />
-          <ProjectImage image={usn4} alt="USN Branding" />
+          <WorkHeroVideo video="https://player.vimeo.com/video/459954812?api=1&amp;autoplay=1&amp;background=1&amp;loop=1&amp;muted=1" />
           <ProjectTextLeft
+            header="Playful loader"
+            body="The example above is a loader animation which takes a playful approach of the N from the new logo, and swaps between the two primary brand colors."
+          />
+          <ProjectImage image={usn4} alt="USN Branding" />
+          <ProjectTextRight
             header="Brand guidelines"
             body="This project started off with a branding initiative that I lead and owned fully. This involved an update of logo, color, typography, graphic form, and more, and served as the backbone for the visual design of the app as the project progressed."
           />
           <ProjectImage image={usn5} alt="USN Branding" />
-          <ProjectTextRight
+          <ProjectTextLeft
             header="Setting the rules"
             body="Of course, I created a set of rules to adhere to in order for the brand to succeed to the fullest. Here are some examples of what can be found inside the guidelines document."
           />
