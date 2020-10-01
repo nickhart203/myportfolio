@@ -20,7 +20,7 @@ function Portfolio(props) {
           <WorkHeroImage
             image={portfolioThumb}
             alt="Portfolio site 2020"
-            newclass="mobile-scale-img"
+            newclass=""
           />
           <ProjectDescriptionFn
             detail1="UX / UI Design"
