@@ -9,6 +9,8 @@ import ProjectTextRightUp from "./ProjectTextRightUp.js";
 import ProjectTextLeft from "./ProjectTextLeft.js";
 import coalesse1 from "./assets/img/coalesse-1.jpg";
 import coalesse2 from "./assets/img/coalesse-2.jpg";
+import coalesse4 from "./assets/img/coalesse-4.jpg";
+import coalesse5 from "./assets/img/coalesse-5.jpg";
 import { motion } from "framer-motion";
 
 function Coalesse(props) {
@@ -25,8 +27,8 @@ function Coalesse(props) {
           <ProjectDescription
             detail1="UX/UI Design"
             detail2="Visual Design"
-            detail3=""
-            detail4=""
+            detail3="Strategy"
+            detail4="Animation"
             header="Bringing a beautiful brand forward to shine in today's digital landscape"
             body="The Coalesse project was a full redesign initiative that involved researching its primary users and restructuring the site map in key areas. When it was all said and done, both in usability and in aesthetics, the website embodied everything the Coalesse team hoped it would."
           />
@@ -37,8 +39,22 @@ function Coalesse(props) {
           />
 
           <ProjectTextLeft
+            header="Responsive and functional"
+            body="Though the primary users of this website visit from desktop over mobile by about 9-to-1, the importance of continuity in experience cannot be overstated. We had the responsibility to show Coalesse in the best light no matter what device users are on at the moment. "
+          />
+          <ProjectImage
+            image={coalesse4}
+            alt="Coalesse Desktop Design"
+            newclass=""
+          />
+          <ProjectImage
+            image={coalesse5}
+            alt="Coalesse Desktop Design"
+            newclass=""
+          />
+          <ProjectTextLeft
             header="A foundation in research"
-            body="The Coalesse website is used primarily for interior designers as a tool to help them spec their work. I worked with the Coalesse team and received a handful of recorded user interviews to review and help me learn the in's and out's of their process on the site."
+            body="The Coalesse website is used primarily for interior designers as a tool to help them spec their work. I worked with the Coalesse team and received a handful of recorded user interviews to review and help me learn the in's and out's of the user's process on the site. This allowed the IA and UX design to be hyper focused on the people who matter most."
           />
           <ProjectImage
             image={coalesse2}
