@@ -29,8 +29,9 @@ function Coalesse(props) {
             detail2="Visual Design"
             detail3="Strategy"
             detail4="Animation"
+            detail4="Research"
             header="Bringing a beautiful brand forward to shine in today's digital landscape"
-            body="The Coalesse project was a full redesign initiative that involved researching its primary users and restructuring the site map in key areas. When it was all said and done, both in usability and in aesthetics, the website embodied everything the Coalesse team hoped it would."
+            body="Coalesse is a place interior designers can go to when they need to spec their work. Here, they have access to furniture and material specs, as well as project ideas and other helpful resources. The problem Coalesse was facing was that they sensed their web experience was failing to remain as a top option for interior designers when compared to their competitors. "
           />
           <ProjectImage
             image={coalesse1}
@@ -39,8 +40,8 @@ function Coalesse(props) {
           />
 
           <ProjectTextLeft
-            header="Responsive and functional"
-            body="Though the primary users of this website visit from desktop over mobile by about 9-to-1, the importance of continuity in experience cannot be overstated. We had the responsibility to show Coalesse in the best light no matter what device users are on at the moment. "
+            header="Delightful and functional"
+            body="The steps required for placing Coalesse back at the top involved tasks such as improving the product browse flow and improving the aesthetic quality of the site to delight users. A lot of the UI was stuck in the past and left many target users scratching their heads and ultimately turning to the competition. Though the primary users of this website visit from desktop over mobile by about 9-to-1, the importance of continuity in experience cannot be overstated. "
           />
           <ProjectImage
             image={coalesse4}

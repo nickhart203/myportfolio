@@ -28,17 +28,17 @@ function Meritus(props) {
         >
           <WorkHeroImage image={meritusThumb} alt="Meritus Web Redesign" />
           <ProjectDescription
-            detail1="UX Design"
-            detail2="UX Audit"
-            detail3="Visual Design"
-            detail4=""
+            detail1="Research"
+            detail2="Strategy"
+            detail3="UX Design"
+            detail4="Visual Design"
             header="Major UX issues"
-            body="Meritus Communities had some major UX issues occurring on its website, and they knew it. They came to us with the goal of addressing and implementing the changes needed in order to bump up their website conversions and reduce bouncing."
+            body="Meritus Communities had some major UX and UI issues occurring on their website. They came to us with the problem of improving conversions, overall site traffic, and driving property inquiries. The goal was to discover some key problem areas and to address user pain points so that Meritus can keep bringing in new customers for years to come."
           />
           <ProjectImage image={meritus2} alt="Meritus Web Redesign" />
           <ProjectTextLeft
             header="Analyzing the data"
-            body="We used hotjar on the site in advance so we could begin gathering some user information to guide us wherever necessary through the redesign. Ultimately, the heat maps were most beneficial for the redesign of the hero search component that users relied on for getting into the site experience."
+            body="We used hotjar on the site in advance to help us gather some preliminary information about the user flows. I found this very insightful for showing me where users were going once they hit the homepage, and how they were interacting with the problematic search module. This lead me to iterating on that specific module as a quick win."
           />
           <ProjectImage image={meritus3} alt="Meritus Web Redesign" />
           <ProjectTextRight

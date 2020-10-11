@@ -27,12 +27,12 @@ function Drumnow(props) {
         >
           <WorkHeroImage image={drumnow2} alt="Drumnow App Design" />
           <ProjectDescription
-            detail1="Visual Design"
+            detail1="Research"
             detail2="UX Design"
-            detail3=""
+            detail3="Visual Design"
             detail4=""
             header="Fostering creativity with metal loops to jam to"
-            body="Drumnoow was conceived to give metal musicians the tools to jam alongside rhythms in a simple, easy to use interface. The team came to me in need of some major design work before the official product launch and I fell in love with the product's vibe immediately."
+            body="Drumnow was conceived to give metal musicians the tools to jam alongside rhythms in a simple, easy to use interface. The team came to me in need of some major design work before the official product launch and I fell in love with the product's vibe immediately. I had to conduct some stakeholder interviews to make sure I could target their business goals with this MVP launch. This lead me to designing key user flows around the listening and browsing experiences. "
           />
           
           <ProjectImage image={drumnow1} alt="Drumnow App Design" />

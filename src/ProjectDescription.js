@@ -14,6 +14,7 @@ function ProjectDescription(props) {
                 <li>{props.detail2}</li>
                 <li>{props.detail3}</li>
                 <li>{props.detail4}</li>
+                <li>{props.detail5}</li>
               </ul>
             </div>
             <div className="side-col-lg inline-block">

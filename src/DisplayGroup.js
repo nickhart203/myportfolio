@@ -25,12 +25,12 @@ function DisplayGroup(props) {
         >
           <WorkHeroImage image={displaygroupThumb} alt="Display Group Design" />
           <ProjectDescription
-            detail1="UX/UI Design"
-            detail2="Visual Design"
-            detail3=""
-            detail4=""
+            detail1="Research"
+            detail2="Strategy"
+            detail3="UX/UI Design"
+            detail4="Visual Design"
             header="Delivering excitement and entertainment"
-            body="Display Group came to us with a very outdated web presence that did not do their service justice. They are an entertainment speciality service that can bring larger than life installations to your event, but also dance in the finer, more sophisticated gatherings as well."
+            body="Display Group came to us with a very outdated web presence that did not do their service justice. They are an entertainment speciality service that can bring larger than life installations to an event, but also dance in the finer, more sophisticated gatherings as well."
           />
           <ProjectImage
             image={displaygroup1}

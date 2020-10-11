@@ -28,7 +28,7 @@ function Coachella(props) {
             detail3="Design System"
             detail4=""
             header="Transforming the Coachella website for the year 2020"
-            body="With another year coming around for the festival, Goldenvoice, parent company of Coachella, needed a new theme and a new look to embody what it means to attend the priceless weekend at the grounds of Empire Polo Club. "
+            body="With another year coming around for the festival, Goldenvoice, parent company of Coachella, needed a new theme and a new look to embody what it means to attend the priceless weekend at the grounds of Empire Polo Club. A unique challenge was that the theme not only had to embody what Coachella represents, but it also had to resonate with its target audience and loyal attendees."
           />
           <ProjectImage
             image={coachella2}
