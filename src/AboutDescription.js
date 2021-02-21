@@ -30,9 +30,9 @@ function AboutDescription(props) {
 
         <div className="side-image center inline-block">
           <motion.div
-            initial={{ y: 25, opacity: 0, scale: 0.95 }}
-            animate={{ y: 0, opacity: 1, scale: 1 }}
-            transition={{ delay: 0.5, ease: "easeOut", duration: 1.25 }}
+            initial={{ x: 25, opacity: 0, scale: 1 }}
+            animate={{ x: 0, opacity: 1, scale: 1 }}
+            transition={{ delay: 0.5, ease: "easeOut", duration: 1.1 }}
           >
             <img src={meImg} />
           </motion.div>
