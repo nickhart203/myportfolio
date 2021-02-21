@@ -72,6 +72,11 @@ function USN(props) {
             header="Playful loader"
             body="The example above is a loader animation which takes a playful approach of the N from the new logo, and swaps between the two primary brand colors."
           />
+          <WorkHeroVideo video="https://player.vimeo.com/video/514990080?api=1&amp;autoplay=1&amp;background=1&amp;loop=1&amp;muted=1" />
+          <ProjectTextLeft
+            header="A new logo"
+            body="As the face of the company, the logo had to be redesigned and modernized to embody tones of speed, trust, and credibility."
+          />
           <ProjectImage image={usn4} alt="USN Branding" />
           <ProjectTextRight
             header="Brand guidelines"
