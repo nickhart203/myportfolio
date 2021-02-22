@@ -17,7 +17,7 @@ import usn5 from "./assets/img/usn-5.jpg";
 import usn6 from "./assets/img/usn-6.jpg";
 import { motion } from "framer-motion";
 
-function USN(props) {
+function USN(props) { 
   return (
     <div>
       <div className="pageContainer">
