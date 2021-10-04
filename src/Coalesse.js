@@ -7,6 +7,7 @@ import ProjectImage from "./ProjectImage.js";
 import ProjectTextRight from "./ProjectTextRight.js";
 import ProjectTextRightUp from "./ProjectTextRightUp.js";
 import ProjectTextLeft from "./ProjectTextLeft.js";
+import ProjectTextLeftUp from "./ProjectTextLeftUp.js";
 import coalesse1 from "./assets/img/coalesse-1.jpg";
 import coalesse2 from "./assets/img/coalesse-2.jpg";
 import coalesse4 from "./assets/img/coalesse-4.jpg";
@@ -30,6 +31,11 @@ function Coalesse(props) {
             detail3="Strategy"
             detail4="Animation"
             detail4="Research"
+            team1="2 Designers"
+            team2="1 Design Director"
+            team3="1 Project Manager"
+            team4="2 Engineers"
+            timeline1="3 months"
             header="Bringing a beautiful brand forward to shine in today's digital landscape"
             body="Coalesse is a place interior designers can go to when they need to spec their work. Here, they have access to furniture and material specs, as well as project ideas and other helpful resources. The problem Coalesse was facing was that they sensed their web experience was failing to remain as a top option for interior designers when compared to their competitors. "
           />
@@ -53,7 +59,7 @@ function Coalesse(props) {
             alt="Coalesse Desktop Design"
             newclass=""
           />
-          <ProjectTextLeft
+          <ProjectTextRight
             header="A foundation in research"
             body="The Coalesse website is used primarily for interior designers as a tool to help them spec their work. I worked with the Coalesse team and received a handful of recorded user interviews to review and help me learn the in's and out's of the user's process on the site. This allowed the IA and UX design to be hyper focused on the people who matter most."
           />
@@ -62,7 +68,7 @@ function Coalesse(props) {
             alt="Coalesse Desktop Design"
             newclass="mobile-scale-img"
           />
-          <ProjectTextRightUp
+          <ProjectTextLeftUp
             header="One to remember"
             body="It was truly a rewarding experience to get inside the heads of the interior designers as well as collaborating with the Coalesse team to help move the project forward as efficiently as possible. It was also refreshing to be apart of a redesign that had such a modern visual system that I'm confident will last a long time."
           />

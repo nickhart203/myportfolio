@@ -31,6 +31,10 @@ function Drumnow(props) {
             detail2="UX Design"
             detail3="Visual Design"
             detail4=""
+            team1="1 Designer" 
+            team2="1 Product Manager" 
+            team3="1 Engineer" 
+            timeline1="1 month"
             header="Fostering creativity with metal loops to jam to"
             body="Drumnow was conceived to give metal musicians the tools to jam alongside rhythms in a simple, easy to use interface. The team came to me in need of some major design work before the official product launch and I fell in love with the product's vibe immediately. I had to conduct some stakeholder interviews to make sure I could target their business goals with this MVP launch. This lead me to designing key user flows around the listening and browsing experiences. "
           />

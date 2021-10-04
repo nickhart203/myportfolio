@@ -8,6 +8,7 @@ import About from "./About.js";
 import Resume from "./Resume.js";
 import Navbar from "./Navbar.js";
 import Footer from "./Footer.js";
+import Vail from "./Vail.js";
 import Coachella from "./Coachella.js";
 import Coalesse from "./Coalesse.js";
 import Social from "./Social.js";
@@ -28,7 +29,7 @@ function App() {
       <ScrollToTop />
       <style>
         @import
-        url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100;300;400;500&display=swap');
+        url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;700&display=swap');
       </style>
       <div className="App">
         <motion.div
@@ -44,7 +45,8 @@ function App() {
         <Route exact path="/" component={Work} />
         <Route path="/about" component={About} />
         <Route path="/resume" component={Resume} />
-        <Route path="/us-nursing" component={USN} />
+        <Route path="/vail" component={Vail} />
+        <Route path="/us-nursing" component={USN} /> 
         <Route path="/coachella" component={Coachella} />
         <Route path="/drumnow" component={Drumnow} />
         <Route path="/coalesse" component={Coalesse} />

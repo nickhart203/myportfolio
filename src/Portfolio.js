@@ -27,6 +27,8 @@ function Portfolio(props) {
             detail2="React"
             detail3=""
             detail4=""
+            team1="1 Designer/Developer"
+            timeline1="3 months"
             header="My new site built in react"
             body="I've long built my sites using standard front-end methods. However, as time went on, I wanted to learn a newer, more relevant skill. Thus, I learned react and deployed my site on Github Pages. This has been such a rewarding experience that I wanted a page here dedicated to my efforts. I've also used this project to learn more about implementing react-based animations through Framer Motion API."
             footnote="View project on"

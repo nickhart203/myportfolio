@@ -29,6 +29,11 @@ function DisplayGroup(props) {
             detail2="Strategy"
             detail3="UX/UI Design"
             detail4="Visual Design"
+            team1="2 Designers"
+            team2="1 Design Director"
+            team3="1 Project Manager"
+            team4="2 Engineers"
+            timeline1="6 months"
             header="Delivering excitement and entertainment"
             body="Display Group came to us with a very outdated web presence that did not do their service justice. They are an entertainment speciality service that can bring larger than life installations to an event, but also dance in the finer, more sophisticated gatherings as well."
           />

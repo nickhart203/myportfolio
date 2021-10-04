@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 
-function ProjectTextRight(props) {
+function ProjectTextRightUp(props) {
   return (
     <section>
         
@@ -16,4 +16,4 @@ function ProjectTextRight(props) {
   );
 }
 
-export default ProjectTextRight;
+export default ProjectTextRightUp;

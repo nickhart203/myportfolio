@@ -3,6 +3,7 @@ import { BrowserRouter, Route, Link } from "react-router-dom";
 import Thumbnail from "./Thumbnail.js";
 import "./App.css";
 import usnThumb from "./assets/img/usn-thumbnail.jpg";
+import vailThumb from "./assets/img/vail-thumbnail.jpg";
 import coachellaThumb from "./assets/img/coachella-thumbnail.jpg";
 import coalesseThumb from "./assets/img/coalesse-thumbnail.jpg";
 import displaygroupThumb from "./assets/img/displaygroup-thumbnail.jpg";
@@ -77,6 +78,13 @@ function Work(props) {
             title="US Nursing"
             subtext="Product Design"
             alt="USN App Design"
+          />
+          <Thumbnail
+            link="/vail"
+            image={vailThumb}
+            title="Vail Resorts"
+            subtext="UX Research"
+            alt="Vail FAQ Discovery"
           />
           <Thumbnail
             link="/coachella"

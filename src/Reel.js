@@ -22,8 +22,10 @@ function Reel(props) {
             detail2="2d / 3d"
             detail3=""
             detail4=""
-            header="Some works that I've done in the past"
-            body="Though this reel is a bit out of date now, I'll have a newer version before year's end. This is a collection of playful exploration and commissioned work. I really enjoy improving skills in all avenues of design and I definitely have the tools to keep practicing more in-depth 3d work."
+            team1="1 Designer"
+            timeline1="1 week"
+            header="Some motion works that I've done in the past"
+            body="This is a collection of playful exploration and commissioned work. I really enjoy improving skills in all avenues of design and I definitely have the tools to keep practicing more in-depth 3d work."
           />
         </motion.div>
       </div>

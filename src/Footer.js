@@ -10,7 +10,7 @@ function Footer() {
   return (
     <div className="footer-container">
       <div className="footer-text-container">
-        <p>© 2020 Nick Hart</p>
+        <p>© 2021 Nick Hart</p>
       </div>
       <div className="social-container-footer justify-content-end row">
       <SocialIcon

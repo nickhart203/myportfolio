@@ -38,7 +38,11 @@ function USN(props) {
             detail2="Design System"
             detail3="Animation"
             detail4="Branding"
-            header="Coordinating nurses at a moments notice"
+            team1="2 Designers"
+            team2="1 Product Manager"
+            team3="4 Engineers"
+            timeline1="6 months"
+            header="Coordinating strike nurses at a moments notice"
             body="US Nursing specializes in placing nurses where they're needed most during critical strikes. Oftentimes hospitals become short staffed in key moments and they rely on services such as US Nursing to keep things moving along promptly, and efficiently. The problem they faced was that the onboarding experience was a huge barrier to entry for many users and the app needed to be simplified so that new users could sign up easily and leave it. "
           />
           <WorkHeroVideo video="https://player.vimeo.com/video/459952948?api=1&amp;autoplay=1&amp;background=1&amp;loop=1&amp;muted=1" />

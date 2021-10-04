@@ -32,6 +32,9 @@ function Meritus(props) {
             detail2="Strategy"
             detail3="UX Design"
             detail4="Visual Design"
+            team1="2 Designers"
+            team2="1 Project Manager"
+            timeline1="2 months"
             header="Major UX issues"
             body="Meritus Communities had some major UX and UI issues occurring on their website. They came to us with the problem of improving conversions, overall site traffic, and driving property inquiries. The goal was to discover some key problem areas and to address user pain points so that Meritus can keep bringing in new customers for years to come."
           />
