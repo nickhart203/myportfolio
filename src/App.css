@@ -444,7 +444,7 @@ line-height: 40px;
 }
 .aboutHeaderContainer .side-col-lg {
   padding: 1em 1em 0 0;
-  max-width: 33rem !important;
+  max-width: 37rem !important;
 }
 .col-sm {
   -webkit-flex-basis: 18%;
@@ -473,9 +473,9 @@ line-height: 40px;
   flex: 0 0 65%;
 }
 .side-image {
-  -webkit-flex: 0 0 38%;
-  -ms-flex: 0 0 38%;
-  flex: 0 0 38%;
+  -webkit-flex: 0 0 34%;
+  -ms-flex: 0 0 34%;
+  flex: 0 0 34%;
 }
 .side-image img {
   width: 100%;
@@ -694,15 +694,15 @@ line-height: 40px;
     flex: 0 0 100%;
   }
   h1 {
-    font-size: 38px;
+    font-size: 33px;
     line-height: 44px;
     margin-bottom: 8px;
     letter-spacing: -0.1rem;
   }
   h2 {
-    font-size: 32px;
+    font-size: 28px;
     line-height: 48px;
-    margin-bottom: 16px;
+    margin-bottom: 0px;
     letter-spacing: 0rem;
   }
   h3 {
@@ -724,9 +724,9 @@ line-height: 40px;
     margin-top: 48px;
   }
   .side-col-lg {
-    -webkit-flex: 0 0 70%;
-    -ms-flex: 0 0 70%;
-    flex: 0 0 70%;
+    -webkit-flex: 0 0 100%;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
   }
   .mobile-scale-img {
     width: 120% !important;
@@ -736,8 +736,15 @@ line-height: 40px;
   .text-padding {
     padding: 8em 0;
   }
+  .col-sm-2 {
+    flex: 0 0 0vw;
+}
   .col-sm {
     margin-bottom: 2em;
+    flex-basis: auto;
+  }
+  .col-sm li{
+    margin-bottom: 0.4rem;
   }
   .project-subtext {
     margin-bottom: 48px;

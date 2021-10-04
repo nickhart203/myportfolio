@@ -1,7 +1,6 @@
 import React from "react";
 import "./App.css";
 import WorkHeader from "./WorkHeader.js";
-import WorkHeroVideo from "./WorkHeroVideo.js";
 import WorkHeroImage from "./WorkHeroImage.js";
 import ProjectDescription from "./ProjectDescription.js";
 import ProjectImage from "./ProjectImage.js";
