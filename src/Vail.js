@@ -61,7 +61,7 @@ function Vail(props) {
             timeline1="5 weeks"
             header="A problem in self-service"
             body="Vail approached the team with the problem of bad customer service experiences, which became even more prevalent during the COVID pandemic. The current set of customer service and self-service that existed on the website was put to the test through massive call volumes and frustrated guests who couldn’t get clear answers to their questions. What’s more, the Vail Resorts property websites didn’t have an FAQ page—only specific page locations contained FAQ content."
-            body2="The process for this project including a few defining steps.
+            body2="The process for this project includes a few defining steps:
             Explore best practices for FAQs and self-service as stated in peer-review articles and publications, as well a comparison to competition and large-scale enterprises where support needs to be robust and covers sensitive material. Conduct stakeholder interviews to hear the problem in their words. Recruit and conduct user observational studies with a defined set of user types. A general UX audit of the experience and user’s journeys. Generate a list of recommendations for the client based on the total body of research. Finally, advise on short-term and long-term strategy to repair and improve the current self-service and support approach."
           />
           <ProjectImage
