@@ -2,6 +2,7 @@ import React from "react";
 import "./App.css";
 import WorkHeader from "./WorkHeader.js";
 import WorkHeroVideo from "./WorkHeroVideo.js";
+import WorkHeroVideoAddShadow from "./WorkHeroVideoAddShadow";
 import ProjectDescription from "./ProjectDescription.js";
 import ProjectImage from "./ProjectImage.js";
 import ProjectTextRight from "./ProjectTextRight.js";
@@ -24,7 +25,7 @@ function Coalesse(props) {
           animate={{ y: 0, opacity: 1 }}
           transition={{ delay: 0.5, ease: "easeOut", duration: 0.75 }}
         >
-          <WorkHeroVideo video="https://player.vimeo.com/video/459767376?api=1&amp;autoplay=1&amp;background=1&amp;loop=1&amp;muted=1" />
+          <WorkHeroVideoAddShadow video="https://player.vimeo.com/video/459767376?api=1&amp;autoplay=1&amp;background=1&amp;loop=1&amp;muted=1" />
           <ProjectDescription
             detail1="UX/UI Design"
             detail2="Visual Design"
