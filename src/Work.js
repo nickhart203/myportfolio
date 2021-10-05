@@ -79,6 +79,13 @@ function Work(props) {
             subtext="Product Design"
             alt="USN App Design"
           />
+            <Thumbnail
+              link="/coalesse"
+              image={coalesseThumb}
+              title="Coalesse"
+              subtext="UX/UI Website Redesign"
+              alt="Coalesse Website Redesign"
+            />
           <Thumbnail
             link="/vail"
             image={vailThumb}
@@ -92,13 +99,6 @@ function Work(props) {
             title="Coachella 2020"
             subtext="Visual Design & Animation"
             alt="Coachella 2020 website"
-          />
-          <Thumbnail
-            link="/coalesse"
-            image={coalesseThumb}
-            title="Coalesse"
-            subtext="UX/UI Website Redesign"
-            alt="Coalesse Website Redesign"
           />
           <Thumbnail
             link="/drumnow"
