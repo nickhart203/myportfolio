@@ -109,6 +109,9 @@ ul {
 .subtract-top {
   padding-top: 9em !important;
 }
+.last-image-padding{
+  padding: 0 0 15em 0;
+}
 .inline-block {
   display: inline-block;
 }
@@ -139,7 +142,7 @@ ul {
   justify-content: flex-end !important;
 }
 .navContainer {
-  letter-spacing: -0.1rem;
+  letter-spacing: -0.05rem;
   position: fixed;
   top: 0;
   left: 0;
@@ -672,6 +675,9 @@ line-height: 40px;
   .text-padding {
     padding: 4em 0;
   }
+  .last-image-padding{
+    padding: 0 0 4em 0;
+  }
   .mobile-scale-img {
     width: 120% !important;
     margin-left: -11% !important;
@@ -750,6 +756,9 @@ line-height: 40px;
   }
   .text-padding {
     padding: 8em 0;
+  }
+  .last-image-padding{
+    padding: 0 0 8em 0;
   }
   .col-sm-2 {
     flex: 0 0 0vw !important;

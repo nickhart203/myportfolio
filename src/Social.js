@@ -2,6 +2,7 @@ import React from "react";
 import "./App.css";
 import SocialIcon from "./socialIcon.js";
 import svgLinkedin from "./assets/svg/01-linkedin-2x.svg";
+import svgYoutube from "./assets/svg/01-youtube-2x.svg";
 import svgDribbble from "./assets/svg/01-dribbble-2x.svg";
 import svgTwitter from "./assets/svg/01-twitter-2x.svg";
 import svgInstagram from "./assets/svg/01-instagram-2x.svg";
@@ -35,6 +36,18 @@ function Social(props) {
           whileTap={{ scale: 0.9 }}
         >
           <SocialIcon
+            link="https://www.youtube.com/channel/UCmy6aiHyj2f9gU93NHwTG5Q"
+            image={svgYoutube}
+          />
+        </motion.div>
+        <motion.div
+          whileHover={{
+            scale: 1.2,
+            transition: { ease: "easeOut", duration: 0.4 },
+          }}
+          whileTap={{ scale: 0.9 }}
+        >
+          <SocialIcon
             link="http://www.dribbble.com/cubeycap"
             image={svgDribbble}
           />
@@ -45,16 +58,7 @@ function Social(props) {
             transition: { ease: "easeOut", duration: 0.4 },
           }}
           whileTap={{ scale: 0.9 }}
-        >
-          <SocialIcon link="https://twitter.com/cubeycap" image={svgTwitter} />
-        </motion.div>
-        <motion.div
-          whileHover={{
-            scale: 1.2,
-            transition: { ease: "easeOut", duration: 0.4 },
-          }}
-          whileTap={{ scale: 0.9 }}
-        >
+        >        
           <SocialIcon
             link="https://www.instagram.com/cubeycap/"
             image={svgInstagram}

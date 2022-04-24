@@ -6,6 +6,7 @@ import WorkHeroImage from "./WorkHeroImage.js";
 import ProjectDescription from "./ProjectDescription.js";
 import ProjectDescriptionUp from "./ProjectDescriptionUp.js";
 import ProjectImage from "./ProjectImage.js";
+import ProjectImageLast from "./ProjectImageLast.js";
 import ProjectTextRight from "./ProjectTextRight.js";
 import ProjectTextRightUp from "./ProjectTextRightUp.js";
 import ProjectTextLeft from "./ProjectTextLeft.js";
@@ -91,7 +92,7 @@ function USN(props) {
             header="Setting the rules"
             body="Of course, I created a set of rules to adhere to in order for the brand to succeed to the fullest. Here are some examples of what can be found inside the guidelines document."
           />
-          <ProjectImage image={usn6} alt="USN Branding" />
+          <ProjectImageLast image={usn6} alt="USN Branding" />
         </motion.div>
       </div>
     </div>
