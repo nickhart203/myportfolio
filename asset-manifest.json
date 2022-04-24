@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.8e21bb58.chunk.css",
-    "main.js": "/static/js/main.1bb35e79.chunk.js",
-    "main.js.map": "/static/js/main.1bb35e79.chunk.js.map",
+    "main.css": "/static/css/main.51f5701b.chunk.css",
+    "main.js": "/static/js/main.2a87cca3.chunk.js",
+    "main.js.map": "/static/js/main.2a87cca3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
-    "static/js/2.ab9f38e6.chunk.js": "/static/js/2.ab9f38e6.chunk.js",
-    "static/js/2.ab9f38e6.chunk.js.map": "/static/js/2.ab9f38e6.chunk.js.map",
+    "static/js/2.69697a88.chunk.js": "/static/js/2.69697a88.chunk.js",
+    "static/js/2.69697a88.chunk.js.map": "/static/js/2.69697a88.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c3c9e8ffd9c2608a0680d5a5fbd8b5d8.js": "/precache-manifest.c3c9e8ffd9c2608a0680d5a5fbd8b5d8.js",
+    "precache-manifest.d0ef84f1a69c3ea5a72355c2484f878e.js": "/precache-manifest.d0ef84f1a69c3ea5a72355c2484f878e.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.8e21bb58.chunk.css.map": "/static/css/main.8e21bb58.chunk.css.map",
-    "static/js/2.ab9f38e6.chunk.js.LICENSE.txt": "/static/js/2.ab9f38e6.chunk.js.LICENSE.txt",
+    "static/css/main.51f5701b.chunk.css.map": "/static/css/main.51f5701b.chunk.css.map",
+    "static/js/2.69697a88.chunk.js.LICENSE.txt": "/static/js/2.69697a88.chunk.js.LICENSE.txt",
     "static/media/01-dribbble-2x.svg": "/static/media/01-dribbble-2x.4dd6575c.svg",
     "static/media/01-instagram-2x.svg": "/static/media/01-instagram-2x.c17bd8b1.svg",
-    "static/media/01-linkedin-2x.svg": "/static/media/01-linkedin-2x.ca496b03.svg",
-    "static/media/01-twitter-2x.svg": "/static/media/01-twitter-2x.5a12a32f.svg",
+    "static/media/01-linkedin-2x.svg": "/static/media/01-linkedin-2x.4782db4e.svg",
+    "static/media/01-twitter-2x.svg": "/static/media/01-twitter-2x.998ba628.svg",
+    "static/media/01-youtube-2x.svg": "/static/media/01-youtube-2x.b5f06b89.svg",
     "static/media/coachella-1.jpg": "/static/media/coachella-1.d16c1679.jpg",
     "static/media/coachella-2.jpg": "/static/media/coachella-2.fcc17d62.jpg",
     "static/media/coachella-thumbnail.jpg": "/static/media/coachella-thumbnail.0529569a.jpg",
@@ -45,7 +46,7 @@
     "static/media/meritus-thumbnail.jpg": "/static/media/meritus-thumbnail.224accf7.jpg",
     "static/media/portfolio-thumbnail.jpg": "/static/media/portfolio-thumbnail.3f187022.jpg",
     "static/media/reel-thumbnail.jpg": "/static/media/reel-thumbnail.f34660ec.jpg",
-    "static/media/resume_nickhart.pdf": "/static/media/resume_nickhart.ba96faad.pdf",
+    "static/media/resume_nickhart.pdf": "/static/media/resume_nickhart.053e4b67.pdf",
     "static/media/usn-1.jpg": "/static/media/usn-1.6118eb39.jpg",
     "static/media/usn-2.jpg": "/static/media/usn-2.40c8f03e.jpg",
     "static/media/usn-3.jpg": "/static/media/usn-3.468b846b.jpg",
@@ -77,8 +78,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
-    "static/js/2.ab9f38e6.chunk.js",
-    "static/css/main.8e21bb58.chunk.css",
-    "static/js/main.1bb35e79.chunk.js"
+    "static/js/2.69697a88.chunk.js",
+    "static/css/main.51f5701b.chunk.css",
+    "static/js/main.2a87cca3.chunk.js"
   ]
 }

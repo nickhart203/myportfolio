@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "191e30698ce0e47a3722871f4b64408c",
+    "revision": "27f70b1bb470e288c943115679bcb69b",
     "url": "/index.html"
   },
   {
-    "revision": "fa195fae2e9d295a3881",
-    "url": "/static/css/main.8e21bb58.chunk.css"
+    "revision": "893ec9550176f4296409",
+    "url": "/static/css/main.51f5701b.chunk.css"
   },
   {
-    "revision": "4b7393e482da2e3ee493",
-    "url": "/static/js/2.ab9f38e6.chunk.js"
+    "revision": "a1f832868b934fc24677",
+    "url": "/static/js/2.69697a88.chunk.js"
   },
   {
     "revision": "c87550333da8df8ab4c80bd1d6e9defb",
-    "url": "/static/js/2.ab9f38e6.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.69697a88.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fa195fae2e9d295a3881",
-    "url": "/static/js/main.1bb35e79.chunk.js"
+    "revision": "893ec9550176f4296409",
+    "url": "/static/js/main.2a87cca3.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
@@ -32,12 +32,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/01-instagram-2x.c17bd8b1.svg"
   },
   {
-    "revision": "ca496b03e175fe4528b699f82d871efb",
-    "url": "/static/media/01-linkedin-2x.ca496b03.svg"
+    "revision": "4782db4ecca7119e77f8ab658290a469",
+    "url": "/static/media/01-linkedin-2x.4782db4e.svg"
   },
   {
-    "revision": "5a12a32f776eaae94aa0adb1341641ac",
-    "url": "/static/media/01-twitter-2x.5a12a32f.svg"
+    "revision": "998ba62887eaced4119a6d0ac1e5d5cb",
+    "url": "/static/media/01-twitter-2x.998ba628.svg"
+  },
+  {
+    "revision": "b5f06b8932cfd7137fb2ae57631186fc",
+    "url": "/static/media/01-youtube-2x.b5f06b89.svg"
   },
   {
     "revision": "d16c16793afc846aef845410b7a761be",
@@ -156,8 +160,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/reel-thumbnail.f34660ec.jpg"
   },
   {
-    "revision": "ba96faad1eadecd7e0acf6b72e56f056",
-    "url": "/static/media/resume_nickhart.ba96faad.pdf"
+    "revision": "053e4b67f5994bde42f92e3d65f77399",
+    "url": "/static/media/resume_nickhart.053e4b67.pdf"
   },
   {
     "revision": "6118eb397961d20ce9ed7ace7c3969bf",
