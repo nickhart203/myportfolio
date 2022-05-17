@@ -6,7 +6,7 @@ import usnThumb from "./assets/img/usn-thumbnail.jpg";
 import vailThumb from "./assets/img/vail-thumbnail.jpg";
 import coachellaThumb from "./assets/img/coachella-thumbnail.jpg";
 import coalesseThumb from "./assets/img/coalesse-thumbnail.jpg";
-import displaygroupThumb from "./assets/img/displaygroup-thumbnail.jpg";
+import consensysThumb from "./assets/img/consensys-thumbnail.jpg";
 import meritusThumb from "./assets/img/meritus-thumbnail.jpg";
 import drumnowThumb from "./assets/img/drumnow-thumbnail.jpg";
 import hexaThumb from "./assets/img/hexa-thumbnail.jpg";
@@ -87,6 +87,13 @@ function Work(props) {
               alt="Coalesse Website Redesign"
             />
           <Thumbnail
+            link="/consensys"
+            image={consensysThumb}
+            title="ConsenSys Developer"
+            subtext="UX/UI Website Design"
+            alt="ConsenSys developer platform"
+          />
+          <Thumbnail
             link="/vail"
             image={vailThumb}
             title="Vail Resorts"
@@ -113,13 +120,6 @@ function Work(props) {
             title="Meritus Communities"
             subtext="UX Case Study"
             alt="Meritus UX Design"
-          />
-          <Thumbnail
-            link="/display-group"
-            image={displaygroupThumb}
-            title="Display Group"
-            subtext="UX/UI Website Redesign"
-            alt="Display Group Redesign"
           />
           <Thumbnail
             link="/hexa"

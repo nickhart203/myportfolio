@@ -31,7 +31,7 @@ function Coalesse(props) {
             detail2="Visual Design"
             detail3="Strategy"
             detail4="Animation"
-            detail4="Research"
+            detail5="Research"
             team1="2 Designers"
             team2="1 Design Director"
             team3="1 Project Manager"

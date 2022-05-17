@@ -9,6 +9,7 @@ import ProjectTextLeft from "./ProjectTextLeft.js";
 import ProjectTextLeftUp from "./ProjectTextLeftUp.js";
 import coachella1 from "./assets/img/coachella-1.jpg";
 import coachella2 from "./assets/img/coachella-2.jpg";
+import coachella6 from "./assets/img/coachella-6.jpg";
 import { motion } from "framer-motion";
 
 function Coachella(props) {
@@ -53,8 +54,13 @@ function Coachella(props) {
             header="Animated illustrations"
             body="Another designer already drew up the beautiful set of illustrations to be used on the site, so we thought it would be a great idea if I were to animate them as if they were being painted in with watercolor. This effect was used in transitions, such as the hero on page load and as a user moved through the navigation. These were limited to desktop only to preserve performance on mobile."
           />
-          <WorkHeroVideo video="https://player.vimeo.com/video/459585534?api=1&amp;autoplay=1&amp;background=1&amp;loop=1&amp;muted=1" />
+          <ProjectImage image={coachella6} alt="Coachella timeline" />
           <ProjectTextRight
+            header="All the elements working together"
+            body="Goldenvoice was able to take my design system and layout the years of Coachella timeline in wonderful fashion."
+          />
+          <WorkHeroVideo video="https://player.vimeo.com/video/459585534?api=1&amp;autoplay=1&amp;background=1&amp;loop=1&amp;muted=1" />
+          <ProjectTextLeft
             header="Motion studies for days"
             body="I live for motion and bringing the natural world into the products people use. For this reason, I have a plethora of animated prototypes and motion studies that were used to communicate with development on how components and pages should behave."
           />

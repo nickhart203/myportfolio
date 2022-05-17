@@ -11,6 +11,7 @@ import Footer from "./Footer.js";
 import Vail from "./Vail.js";
 import Coachella from "./Coachella.js";
 import Coalesse from "./Coalesse.js";
+import Consensys from "./Consensys";
 import Social from "./Social.js";
 import ScrollToTop from "./ScrollToTop.js";
 import "./App.css";
@@ -52,6 +53,7 @@ function App() {
         <Route path="/coalesse" component={Coalesse} />
         <Route path="/meritus" component={Meritus} />
         <Route path="/display-group" component={DisplayGroup} />
+        <Route path="/consensys" component={Consensys} />
         <Route path="/hexa" component={Hexa} />
         <Route path="/reel" component={Reel} />
         <Route path="/portfolio" component={Portfolio} />
