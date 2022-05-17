@@ -79,27 +79,27 @@ function Work(props) {
             subtext="Product Design"
             alt="USN App Design"
           />
-            <Thumbnail
+          <Thumbnail
+              link="/consensys"
+              image={consensysThumb}
+              title="ConsenSys Developer"
+              subtext="UX/UI Website Design"
+              alt="ConsenSys developer platform"
+           />
+          <Thumbnail
+                link="/vail"
+                image={vailThumb}
+                title="Vail Resorts"
+                subtext="UX Research"
+                alt="Vail FAQ Discovery"
+              />
+          <Thumbnail
               link="/coalesse"
               image={coalesseThumb}
               title="Coalesse"
               subtext="UX/UI Website Redesign"
               alt="Coalesse Website Redesign"
             />
-          <Thumbnail
-            link="/consensys"
-            image={consensysThumb}
-            title="ConsenSys Developer"
-            subtext="UX/UI Website Design"
-            alt="ConsenSys developer platform"
-          />
-          <Thumbnail
-            link="/vail"
-            image={vailThumb}
-            title="Vail Resorts"
-            subtext="UX Research"
-            alt="Vail FAQ Discovery"
-          />
           <Thumbnail
             link="/coachella"
             image={coachellaThumb}
