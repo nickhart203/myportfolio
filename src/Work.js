@@ -80,6 +80,13 @@ function Work(props) {
             alt="USN App Design"
           />
           <Thumbnail
+                link="/drumnow"
+                image={drumnowThumb}
+                title="Drumnow"
+                subtext="Product Design"
+                alt="Drumnow App Design"
+              />
+          <Thumbnail
               link="/consensys"
               image={consensysThumb}
               title="ConsenSys Developer"
@@ -101,18 +108,18 @@ function Work(props) {
               alt="Coalesse Website Redesign"
             />
           <Thumbnail
-            link="/coachella"
-            image={coachellaThumb}
-            title="Coachella 2020"
-            subtext="Visual Design & Animation"
-            alt="Coachella 2020 website"
-          />
-          <Thumbnail
             link="/drumnow"
             image={drumnowThumb}
             title="Drumnow"
             subtext="Product Design"
             alt="Drumnow App Design"
+          />
+          <Thumbnail
+            link="/coachella"
+            image={coachellaThumb}
+            title="Coachella 2020"
+            subtext="Visual Design & Animation"
+            alt="Coachella 2020 website"
           />
           <Thumbnail
             link="/meritus"
