@@ -108,13 +108,6 @@ function Work(props) {
               alt="Coalesse Website Redesign"
             />
           <Thumbnail
-            link="/drumnow"
-            image={drumnowThumb}
-            title="Drumnow"
-            subtext="Product Design"
-            alt="Drumnow App Design"
-          />
-          <Thumbnail
             link="/coachella"
             image={coachellaThumb}
             title="Coachella 2020"
