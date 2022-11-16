@@ -8,6 +8,8 @@ import About from "./About.js";
 import Resume from "./Resume.js";
 import Navbar from "./Navbar.js";
 import Footer from "./Footer.js";
+import Dispatch from "./Dispatch";
+import Drumnow from "./Drumnow.js";
 import Vail from "./Vail.js";
 import Coachella from "./Coachella.js";
 import Coalesse from "./Coalesse.js";
@@ -18,7 +20,6 @@ import "./App.css";
 import DisplayGroup from "./DisplayGroup.js";
 import USN from "./USN.js";
 import Meritus from "./Meritus.js";
-import Drumnow from "./Drumnow.js";
 import Hexa from "./Hexa.js";
 import Reel from "./Reel.js";
 import Portfolio from "./Portfolio.js";
@@ -46,10 +47,11 @@ function App() {
         <Route exact path="/" component={Work} />
         <Route path="/about" component={About} />
         <Route path="/resume" component={Resume} />
-        <Route path="/vail" component={Vail} />
-        <Route path="/us-nursing" component={USN} /> 
-        <Route path="/coachella" component={Coachella} />
+        <Route path="/wmdispatch" component={Dispatch} />
         <Route path="/drumnow" component={Drumnow} />
+        <Route path="/us-nursing" component={USN} />
+        <Route path="/vail" component={Vail} /> 
+        <Route path="/coachella" component={Coachella} />
         <Route path="/coalesse" component={Coalesse} />
         <Route path="/meritus" component={Meritus} />
         <Route path="/display-group" component={DisplayGroup} />

@@ -3,6 +3,7 @@ import { BrowserRouter, Route, Link } from "react-router-dom";
 import Thumbnail from "./Thumbnail.js";
 import "./App.css";
 import usnThumb from "./assets/img/usn-thumbnail.jpg";
+import dispatchThumb from "./assets/img/dispatch-thumbnail.jpg";
 import vailThumb from "./assets/img/vail-thumbnail.jpg";
 import coachellaThumb from "./assets/img/coachella-thumbnail.jpg";
 import coalesseThumb from "./assets/img/coalesse-thumbnail.jpg";
@@ -72,6 +73,13 @@ function Work(props) {
         </div>
 
         <motion.li variants={item}>
+        <Thumbnail
+            link="/wmdispatch"
+            image={dispatchThumb}
+            title="WM Dispatch"
+            subtext="Product Design"
+            alt="WM Dispatch App Design"
+          />
           <Thumbnail
             link="/us-nursing"
             image={usnThumb}
