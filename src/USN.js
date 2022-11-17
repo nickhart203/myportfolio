@@ -114,7 +114,7 @@ function USN(props) {
             team1=""
             timeline1=""
             header="The results"
-            body="US Nursing informed us nurse profile completion increased dramatically. The nurses also had a greater comprehension of what was required of them when entering into pool of strike nurses. Lastly, the brand update also increased the level of trust the nurses have in the brand."
+            body="US Nursing informed us that nurse profile completion as well as assignment applications increased dramatically and the average number of expired documents went down. The nurses also had a greater comprehension of what was required of them before they could apply. Lastly, the brand update also increased the level of trust the nurses have in the brand."
             linkCallout=""
             href=""
             linkTitle=""
