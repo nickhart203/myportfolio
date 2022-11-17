@@ -580,6 +580,11 @@ line-height: 40px;
     display: block;
     margin-bottom: 2em;
   }
+  .resultsContainer {
+    padding: 1em 0;
+    display: block;
+    margin-bottom: 2em;
+  }
   .descriptionContainerUp{
     padding: 4em 0 4em 0;
   }
@@ -729,6 +734,11 @@ line-height: 40px;
     padding: 120px 24px 0 24px;
   }
   .descriptionContainer {
+    padding: 8em 0;
+    max-width: 650px;
+    margin: 0 auto;
+  }
+  .resultsContainer {
     padding: 8em 0;
     max-width: 650px;
     margin: 0 auto;

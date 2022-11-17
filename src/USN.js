@@ -58,7 +58,6 @@ function USN(props) {
           <ProjectImage
             image={usn2n}
             alt="USN main screens"
-            newclass="mobile-scale-img"
           />
 
           <ProjectTextRightUp
