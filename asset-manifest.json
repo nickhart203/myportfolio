@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.acec82a0.chunk.css",
-    "main.js": "/static/js/main.ac01b196.chunk.js",
-    "main.js.map": "/static/js/main.ac01b196.chunk.js.map",
+    "main.css": "/static/css/main.b1c76b18.chunk.css",
+    "main.js": "/static/js/main.e4aa6868.chunk.js",
+    "main.js.map": "/static/js/main.e4aa6868.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
-    "static/js/2.7cce7e77.chunk.js": "/static/js/2.7cce7e77.chunk.js",
-    "static/js/2.7cce7e77.chunk.js.map": "/static/js/2.7cce7e77.chunk.js.map",
+    "static/js/2.84cdf14f.chunk.js": "/static/js/2.84cdf14f.chunk.js",
+    "static/js/2.84cdf14f.chunk.js.map": "/static/js/2.84cdf14f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.380549b943267334c1a42e1b1ed5147e.js": "/precache-manifest.380549b943267334c1a42e1b1ed5147e.js",
+    "precache-manifest.099e01fbd17f4046a522668804de0c67.js": "/precache-manifest.099e01fbd17f4046a522668804de0c67.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.acec82a0.chunk.css.map": "/static/css/main.acec82a0.chunk.css.map",
-    "static/js/2.7cce7e77.chunk.js.LICENSE.txt": "/static/js/2.7cce7e77.chunk.js.LICENSE.txt",
+    "static/css/main.b1c76b18.chunk.css.map": "/static/css/main.b1c76b18.chunk.css.map",
+    "static/js/2.84cdf14f.chunk.js.LICENSE.txt": "/static/js/2.84cdf14f.chunk.js.LICENSE.txt",
     "static/media/01-dribbble-2x.svg": "/static/media/01-dribbble-2x.4dd6575c.svg",
     "static/media/01-instagram-2x.svg": "/static/media/01-instagram-2x.c17bd8b1.svg",
     "static/media/01-linkedin-2x.svg": "/static/media/01-linkedin-2x.4782db4e.svg",
@@ -57,6 +57,7 @@
     "static/media/resume_nickhart.pdf": "/static/media/resume_nickhart.053e4b67.pdf",
     "static/media/usn-1.jpg": "/static/media/usn-1.6118eb39.jpg",
     "static/media/usn-2.jpg": "/static/media/usn-2.40c8f03e.jpg",
+    "static/media/usn-2n.jpg": "/static/media/usn-2n.0ed4f264.jpg",
     "static/media/usn-3.jpg": "/static/media/usn-3.468b846b.jpg",
     "static/media/usn-4.jpg": "/static/media/usn-4.260e3ef2.jpg",
     "static/media/usn-5.jpg": "/static/media/usn-5.43b2b0b1.jpg",
@@ -86,8 +87,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
-    "static/js/2.7cce7e77.chunk.js",
-    "static/css/main.acec82a0.chunk.css",
-    "static/js/main.ac01b196.chunk.js"
+    "static/js/2.84cdf14f.chunk.js",
+    "static/css/main.b1c76b18.chunk.css",
+    "static/js/main.e4aa6868.chunk.js"
   ]
 }
