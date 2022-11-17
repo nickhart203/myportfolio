@@ -95,19 +95,19 @@ function Work(props) {
                 alt="Drumnow App Design"
               />
           <Thumbnail
+                link="/vail"
+                image={vailThumb}
+                title="Vail Resorts"
+                subtext="UX Research"
+                alt="Vail FAQ Discovery"
+            />
+          <Thumbnail
               link="/consensys"
               image={consensysThumb}
               title="ConsenSys Developer"
               subtext="UX/UI Website Design"
               alt="ConsenSys developer platform"
            />
-          <Thumbnail
-                link="/vail"
-                image={vailThumb}
-                title="Vail Resorts"
-                subtext="UX Research"
-                alt="Vail FAQ Discovery"
-              />
           <Thumbnail
               link="/coalesse"
               image={coalesseThumb}
@@ -121,13 +121,6 @@ function Work(props) {
             title="Coachella 2020"
             subtext="Visual Design & Animation"
             alt="Coachella 2020 website"
-          />
-          <Thumbnail
-            link="/meritus"
-            image={meritusThumb}
-            title="Meritus Communities"
-            subtext="UX Case Study"
-            alt="Meritus UX Design"
           />
           <Thumbnail
             link="/hexa"

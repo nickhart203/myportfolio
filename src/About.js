@@ -10,12 +10,12 @@ function About(props) {
     <div className="pageContainer">
       <AboutDescription
         detail1="Product Design"
-        detail2="Animation"
-        detail3="Design Systems"
-        detail4="UX/UI Design"
+        detail2="UX/UI Design"
+        detail3="Visual Design"
+        detail4="Design Systems"
         detail5="Brand & Identity"
-        header="Hi there & welcome!"
-        body="I have worked on many satisfying projects ranging from apps, to websites, to animations and identities—all of which keep me hungry for more! I started my career in Detroit, Michigan but currently reside in Boulder, Colorado where I continue to grow professionally, but am also blessed to live a rewarding life in the mountains! Smart, elegant design and nature are my lifeblood."
+        header="Product designer"
+        body="I have 6+ years in designing and shipping products for mobile and web that have generated positive results in industries such as: Delivery, Healthcare, E-commerce, Music, Entertainment, Web3 and more! I love being an IC with a strong level of ownership in the work that I do. I'm obsessed with craft, compelling experiences, and strategic innovation, a trait that makes its way into my personal life as well. Currently I live in Longmont, Colorado and in my free time enjoy learning new skills and discovering new passions that inspire me. :) "
       />
     </div>
   );
