@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.acec82a0.chunk.css",
-    "main.js": "/static/js/main.b2d364dd.chunk.js",
-    "main.js.map": "/static/js/main.b2d364dd.chunk.js.map",
+    "main.js": "/static/js/main.d3ca278f.chunk.js",
+    "main.js.map": "/static/js/main.d3ca278f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
-    "static/js/2.d6bbda88.chunk.js": "/static/js/2.d6bbda88.chunk.js",
-    "static/js/2.d6bbda88.chunk.js.map": "/static/js/2.d6bbda88.chunk.js.map",
+    "static/js/2.7cce7e77.chunk.js": "/static/js/2.7cce7e77.chunk.js",
+    "static/js/2.7cce7e77.chunk.js.map": "/static/js/2.7cce7e77.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.994eeca3f1d961c8835ea8cd97e11a5c.js": "/precache-manifest.994eeca3f1d961c8835ea8cd97e11a5c.js",
+    "precache-manifest.b538c6b3c664708950fdea174e9ae3ee.js": "/precache-manifest.b538c6b3c664708950fdea174e9ae3ee.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.acec82a0.chunk.css.map": "/static/css/main.acec82a0.chunk.css.map",
-    "static/js/2.d6bbda88.chunk.js.LICENSE.txt": "/static/js/2.d6bbda88.chunk.js.LICENSE.txt",
+    "static/js/2.7cce7e77.chunk.js.LICENSE.txt": "/static/js/2.7cce7e77.chunk.js.LICENSE.txt",
     "static/media/01-dribbble-2x.svg": "/static/media/01-dribbble-2x.4dd6575c.svg",
     "static/media/01-instagram-2x.svg": "/static/media/01-instagram-2x.c17bd8b1.svg",
     "static/media/01-linkedin-2x.svg": "/static/media/01-linkedin-2x.4782db4e.svg",
@@ -31,7 +31,7 @@
     "static/media/consensys-3.jpg": "/static/media/consensys-3.6bed0427.jpg",
     "static/media/consensys-thumbnail.jpg": "/static/media/consensys-thumbnail.a0a49654.jpg",
     "static/media/dispatch-1.jpg": "/static/media/dispatch-1.4ada3b81.jpg",
-    "static/media/dispatch-thumbnail.jpg": "/static/media/dispatch-thumbnail.48d3850d.jpg",
+    "static/media/dispatch-thumbnail.jpg": "/static/media/dispatch-thumbnail.b0a34950.jpg",
     "static/media/displaygroup-1.jpg": "/static/media/displaygroup-1.5199b578.jpg",
     "static/media/displaygroup-2.jpg": "/static/media/displaygroup-2.b6005e3d.jpg",
     "static/media/displaygroup-thumbnail.jpg": "/static/media/displaygroup-thumbnail.6e8b93ea.jpg",
@@ -44,7 +44,7 @@
     "static/media/drumnow-7.jpg": "/static/media/drumnow-7.66e152a3.jpg",
     "static/media/drumnow-thumbnail.jpg": "/static/media/drumnow-thumbnail.245904c9.jpg",
     "static/media/hexa-thumbnail.jpg": "/static/media/hexa-thumbnail.18053312.jpg",
-    "static/media/me.jpg": "/static/media/me.340da629.jpg",
+    "static/media/me.jpg": "/static/media/me.085ab41e.jpg",
     "static/media/meritus-1.jpg": "/static/media/meritus-1.f9cf7123.jpg",
     "static/media/meritus-2.jpg": "/static/media/meritus-2.39cfcfa7.jpg",
     "static/media/meritus-3.jpg": "/static/media/meritus-3.05003b68.jpg",
@@ -86,8 +86,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
-    "static/js/2.d6bbda88.chunk.js",
+    "static/js/2.7cce7e77.chunk.js",
     "static/css/main.acec82a0.chunk.css",
-    "static/js/main.b2d364dd.chunk.js"
+    "static/js/main.d3ca278f.chunk.js"
   ]
 }
