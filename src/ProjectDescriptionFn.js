@@ -1,5 +1,6 @@
 import React from "react";
 import "./App.css";
+import Hyperlink from "./Hyperlink";
 
 function ProjectDescriptionFn(props) {
   return (
@@ -38,18 +39,17 @@ function ProjectDescriptionFn(props) {
             </div>
             <div className="description-copy">
               <h3>{props.header}</h3>
-              <p>{props.body}</p>
               <p>
-              View project on{" "}
-              <a
-                href="https://github.com/nickhart203/portfolio"
-                className="line-link-sm"
-                target="_blank"
-              >
-                Github.
-              </a>
-            </p>
-              
+                {props.body}
+                <a>
+                <Hyperlink
+                  linkCallout={props.linkCallout}
+                  href={props.href}
+                  linkTitle={props.linkTitle}
+                />
+                </a>   
+              </p>
+           
             </div>
           </div>
         </div>

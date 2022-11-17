@@ -3,6 +3,7 @@ import "./App.css";
 import WorkHeader from "./WorkHeader.js";
 import WorkHeroImage from "./WorkHeroImage.js";
 import ProjectDescription from "./ProjectDescription.js";
+import ProjectResults from "./ProjectResults.js";
 import ProjectImage from "./ProjectImage.js";
 import ProjectTextRight from "./ProjectTextRight.js";
 import ProjectTextRightUp from "./ProjectTextRightUp.js";
@@ -148,9 +149,18 @@ function Vail(props) {
             body="Because the help center approach is generally more involved, I simply showed some strong examples of what the page would encompass. Vail also wanted some 3rd party solutions vetted, so I presented a quick and dirty list of options for them. I spent a couple days doing a little market research on who the leading players in the space were, but that was about the extent of my efforts there."
           />
           <ProjectImage image={vail20} alt="Coachella Design System" />
-          <ProjectTextRight
-            header="Outcome"
-            body="It is still TBD where Vail will end up, but after the project’s end Vail starting working with 3rd party vendors to move in the Help Center direction. "
+          <ProjectResults
+            detail1=""
+            detail2=""
+            detail3=""
+            detail4=""
+            team1=""
+            timeline1=""
+            header="The results"
+            body="Vail was convinced in the direction we provided and understood the importance of a comprehensive help center. Thus, Vail worked with Zendesk to create a repository of all things customer resources. The help center has successfully reduced call volume and labor required to keep customers informed and stress-free."
+            linkCallout="View live at "
+            href="https://vail.zendesk.com/hc/en-us"
+            linkTitle="Vail Help Center"
           />
         </motion.div>
       </div>

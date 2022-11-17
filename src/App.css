@@ -431,6 +431,12 @@ a.line-link-lg {
   margin: 0 auto;
   height: auto;
 }
+.resultsContainer {
+  padding: 10em 0;
+  max-width: 900px;
+  margin: 0 auto;
+  height: auto;
+}
 .descriptionContainerUp {
   padding: 4em 0 10em 0;
   max-width: 900px;

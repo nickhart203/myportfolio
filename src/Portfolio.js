@@ -4,8 +4,10 @@ import { motion } from "framer-motion";
 import WorkHeader from "./WorkHeader.js";
 import WorkHeroImage from "./WorkHeroImage.js";
 import ProjectDescriptionFn from "./ProjectDescriptionFn.js";
+import Hyperlink from "./Hyperlink";
 import ProjectTextLeft from "./ProjectTextLeft.js";
 import portfolioThumb from "./assets/img/portfolio-thumbnail.jpg";
+
 
 function Portfolio(props) {
   return (
@@ -31,9 +33,10 @@ function Portfolio(props) {
             timeline1="3 months"
             header="My new site built in react"
             body="I've long built my sites using standard front-end methods. However, as time went on, I wanted to learn a newer, more relevant skill. Thus, I learned react and deployed my site on Github Pages. This has been such a rewarding experience that I wanted a page here dedicated to my efforts. I've also used this project to learn more about implementing react-based animations through Framer Motion API."
-            footnote="View project on"
+            linkCallout="View project on"
+            href="https://github.com/nickhart203/portfolio"
+            linkTitle="Github."
           />
-          
         </motion.div>
       </div>
     </div>

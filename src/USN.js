@@ -4,13 +4,16 @@ import WorkHeader from "./WorkHeader.js";
 import WorkHeroVideo from "./WorkHeroVideo.js";
 import WorkHeroImage from "./WorkHeroImage.js";
 import ProjectDescription from "./ProjectDescription.js";
+import ProjectResults from "./ProjectResults.js";
 import ProjectDescriptionUp from "./ProjectDescriptionUp.js";
 import ProjectImage from "./ProjectImage.js";
 import ProjectImageLast from "./ProjectImageLast.js";
 import ProjectTextRight from "./ProjectTextRight.js";
 import ProjectTextRightUp from "./ProjectTextRightUp.js";
 import ProjectTextLeft from "./ProjectTextLeft.js";
+import ProjectTextLeftUp from "./ProjectTextLeftUp";
 import usn1 from "./assets/img/usn-1.jpg";
+import usn2n from "./assets/img/usn-2n.jpg";
 import usn2 from "./assets/img/usn-2.jpg";
 import usn3 from "./assets/img/usn-3.jpg";
 import usn4 from "./assets/img/usn-4.jpg";
@@ -49,8 +52,18 @@ function USN(props) {
           <WorkHeroVideo video="https://player.vimeo.com/video/459952948?api=1&amp;autoplay=1&amp;background=1&amp;loop=1&amp;muted=1" />
 
           <ProjectTextLeft
-            header="Getting new users in quickly and seamlessly"
-            body="It became clear from the original release of the app that nurses were becoming quite frustrated during the account creation process. Because of this, and stakeholder input, a lot of energy was poured into making this flow fluid and pain-free."
+            header="Talking to nurses, the end-users"
+            body="After doing some qualitative research and user interviews, it became clear in the original release of the app nurses were becoming frustrated during the account creation process. This friction as a problem aligned with business goals leading to the update to making this user flow fluid and intuitive."
+          />
+          <ProjectImage
+            image={usn2n}
+            alt="USN main screens"
+            newclass="mobile-scale-img"
+          />
+
+          <ProjectTextRightUp
+            header="The core experience"
+            body="My lead and myself worked on key user goals with nurses to refine the profile experience, assignment application, assignment browsing, and nurse credentials. In these areas, an improvement in the flow would mean more nurse candidates, more applications, and ultimately, more placements during critical strikes."
           />
           <ProjectImage
             image={usn2}
@@ -58,7 +71,7 @@ function USN(props) {
             newclass="mobile-scale-img"
           />
 
-          <ProjectTextRightUp
+          <ProjectTextLeftUp
             header="Informative and welcoming"
             body="Onboarding screens were deemed crucial for alleviating the potential stress of information overload. For this reason, I designed a large set of illustrations that would eventually animate and aid in a more pleasant experience as users entered the key areas of the app."
           />
@@ -69,7 +82,7 @@ function USN(props) {
           />
           <WorkHeroVideo video="https://player.vimeo.com/video/463651346?api=1&amp;autoplay=1&amp;background=1&amp;loop=1&amp;muted=1" />
           <ProjectTextRight
-            header="Branded animations"
+            header="Delightful animations"
             body="Some finishing touches to the UI included some extra brand enforcers to tie everything together."
           />
           <WorkHeroVideo video="https://player.vimeo.com/video/459954812?api=1&amp;autoplay=1&amp;background=1&amp;loop=1&amp;muted=1" />
@@ -92,7 +105,20 @@ function USN(props) {
             header="Setting the rules"
             body="Of course, I created a set of rules to adhere to in order for the brand to succeed to the fullest. Here are some examples of what can be found inside the guidelines document."
           />
-          <ProjectImageLast image={usn6} alt="USN Branding" />
+          <ProjectImage image={usn6} alt="USN Branding" />
+          <ProjectResults
+            detail1=""
+            detail2=""
+            detail3=""
+            detail4=""
+            team1=""
+            timeline1=""
+            header="The results"
+            body="US Nursing informed us nurse profile completion increased dramatically. The nurses also had a greater comprehension of what was required of them when entering into pool of strike nurses. Lastly, the brand update also increased the level of trust the nurses have in the brand."
+            linkCallout=""
+            href=""
+            linkTitle=""
+          />
         </motion.div>
       </div>
     </div>
