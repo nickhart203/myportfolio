@@ -81,13 +81,6 @@ function Work(props) {
             alt="WM Dispatch App Design"
           />
           <Thumbnail
-              link="/vail"
-              image={vailThumb}
-              title="Vail Resorts"
-              subtext="UX Research"
-              alt="Vail FAQ Discovery"
-          />
-          <Thumbnail
             link="/us-nursing"
             image={usnThumb}
             title="US Nursing"
@@ -100,7 +93,14 @@ function Work(props) {
                 title="Drumnow"
                 subtext="Product Design"
                 alt="Drumnow App Design"
-              />
+          />
+          <Thumbnail
+              link="/vail"
+              image={vailThumb}
+              title="Vail Resorts"
+              subtext="UX Research"
+              alt="Vail FAQ Discovery"
+          />
           <Thumbnail
               link="/consensys"
               image={consensysThumb}
