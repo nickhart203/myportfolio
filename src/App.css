@@ -530,22 +530,30 @@ line-height: 40px;
 }
 
 @media screen and (min-width: 2000px) {
+  h1 {
+    font-size: 72px;
+    letter-spacing: -0.3rem;
+    line-height: 80px;
+    margin-top: 0.3em;
+  }
   .intro-textContainer {
-    max-width: 1600px;
+    
   }
   .thumbnail-container {
-    max-width: 1600px;
+    
   }
   .pageContainer {
-    max-width: 1600px;
     padding: 225px 0 0 0;
   }
   .intro-text {
-    max-width: 745px;
+    max-width: 840px;
   }
   .logo,
   div.nav-items {
     padding: 0 5.5vw;
+  }
+  .navContainer{
+    font-size: 32px;
   }
   .footer-container {
     padding: 7% 5vw;

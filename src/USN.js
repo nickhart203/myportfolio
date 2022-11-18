@@ -89,17 +89,17 @@ function USN(props) {
             body="The example above is a loader animation which takes a playful approach of the N from the new logo, and swaps between the two primary brand colors."
           />
           <WorkHeroVideo video="https://player.vimeo.com/video/514990080?api=1&amp;autoplay=1&amp;background=1&amp;loop=1&amp;muted=1" />
-          <ProjectTextLeft
+          <ProjectTextRightUp
             header="A new logo"
             body="As the face of the company, the logo had to be redesigned and modernized to embody tones of speed, trust, and credibility."
           />
           <ProjectImage image={usn4} alt="USN Branding" />
-          <ProjectTextRight
+          <ProjectTextLeft
             header="Brand guidelines"
             body="This project started off with a branding initiative that I lead and owned fully. This involved an update of logo, color, typography, graphic form, and more, and served as the backbone for the visual design of the app as the project progressed."
           />
           <ProjectImage image={usn5} alt="USN Branding" />
-          <ProjectTextLeft
+          <ProjectTextRight
             header="Setting the rules"
             body="Of course, I created a set of rules to adhere to in order for the brand to succeed to the fullest. Here are some examples of what can be found inside the guidelines document."
           />

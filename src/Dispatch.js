@@ -9,6 +9,7 @@ import ProjectTextLeftUp from "./ProjectTextLeftUp.js";
 import ProjectTextLeft from "./ProjectTextLeft.js";
 import dispatchThumb from "./assets/img/dispatch-thumbnail.jpg";
 import dispatch1 from "./assets/img/dispatch-1.jpg";
+import dispatch2 from "./assets/img/dispatch-2.jpg";
 
 import { motion } from "framer-motion";
 
@@ -36,7 +37,8 @@ function Drumnow(props) {
             body="WM Dispatch is currently in progress and there will be more to come. If you wish to see the full project in its current state, please reach out!"
           />
           
-          <ProjectImage image={dispatch1} alt="Drumnow App Design"/>
+          <ProjectImage image={dispatch1} alt="WM Dispatch App Design"/>
+          <ProjectImage image={dispatch2} alt="WM Dispatch App Design"/>
 
         </motion.div>
       </div>
