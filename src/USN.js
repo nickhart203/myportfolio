@@ -12,9 +12,9 @@ import ProjectTextRight from "./ProjectTextRight.js";
 import ProjectTextRightUp from "./ProjectTextRightUp.js";
 import ProjectTextLeft from "./ProjectTextLeft.js";
 import ProjectTextLeftUp from "./ProjectTextLeftUp";
-import usn1 from "./assets/img/usn-1.jpg";
+import usnThumb from "./assets/img/usn-thumbnail.jpg";
+import usn1b from "./assets/img/usn-1b.jpg";
 import usn2n from "./assets/img/usn-2n.jpg";
-import usn2 from "./assets/img/usn-2.jpg";
 import usn3 from "./assets/img/usn-3.jpg";
 import usn4 from "./assets/img/usn-4.jpg";
 import usn5 from "./assets/img/usn-5.jpg";
@@ -33,7 +33,7 @@ function USN(props) {
           transition={{ delay: 0.5, ease: "easeOut", duration: 0.75 }}
         >
           <WorkHeroImage
-            image={usn1}
+            image={usnThumb}
             alt="USN Proudct Design"
             newclass="mobile-scale-img"
           />
@@ -65,11 +65,10 @@ function USN(props) {
             body="My lead and myself worked on key user goals with nurses to refine the profile experience, assignment application, assignment browsing, and nurse credentials. In these areas, an improvement in the flow would mean more nurse candidates, more applications, and ultimately, more placements during critical strikes."
           />
           <ProjectImage
-            image={usn2}
-            alt="USN Proudct Design Onboarding"
+            image={usn1b}
+            alt="USN Proudct Design screens"
             newclass="mobile-scale-img"
           />
-
           <ProjectTextLeftUp
             header="Informative and welcoming"
             body="Onboarding screens were deemed crucial for alleviating the potential stress of information overload. For this reason, I designed a large set of illustrations that would eventually animate and aid in a more pleasant experience as users entered the key areas of the app."
