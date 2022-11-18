@@ -24,14 +24,14 @@ function Drumnow(props) {
         >
           <WorkHeroImage image={dispatchThumb} alt="WM Dispatch App Design"/>
           <ProjectDescription
-            detail1="Research"
-            detail2="UX Design"
-            detail3="Visual Design"
-            detail4=""
+            detail1="Strategy"
+            detail2="Research"
+            detail3="UX Design"
+            detail4="Visual Design"
             team1="1 Designer" 
             team2="1 Product Manager" 
             team3="10 Engineers" 
-            timeline1="TBD"
+            timeline1="6+ months"
             header="Compliance-focused cannabis delivery software"
             body="WM Dispatch is currently in progress and there will be more to come. If you wish to see the full project in its current state, please reach out!"
           />
