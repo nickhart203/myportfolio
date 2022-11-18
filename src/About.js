@@ -10,7 +10,7 @@ function About(props) {
     <div className="pageContainer">
       <AboutDescription
         detail1="Product Design"
-        detail2="UX/UI Design"
+        detail2="UX Design"
         detail3="Visual Design"
         detail4="Design Systems"
         detail5="Brand & Identity"

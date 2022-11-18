@@ -19,8 +19,8 @@ function Hexa(props) {
           <WorkHeroVideo video="https://player.vimeo.com/video/463607692?api=1&amp;autoplay=1&amp;background=1&amp;loop=1&amp;muted=1" />
           <ProjectDescription
             detail1="Animation"
-            detail2="Branding"
-            detail3=""
+            detail2="UX Design"
+            detail3="Branding"
             detail4=""
             team1="2 Designers"
             timeline="2 weeks"

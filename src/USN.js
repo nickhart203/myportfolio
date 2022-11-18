@@ -38,9 +38,9 @@ function USN(props) {
             newclass="mobile-scale-img"
           />
           <ProjectDescriptionUp
-            detail1="Visual Design"
-            detail2="Design System"
-            detail3="Animation"
+            detail1="UX Design"
+            detail2="Visual Design"
+            detail3="Design System"
             detail4="Branding"
             team1="2 Designers"
             team2="1 Product Manager"

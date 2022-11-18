@@ -28,7 +28,7 @@ function Consensys(props) {
           <ProjectDescription
             detail1="Research"
             detail2="Strategy"
-            detail3="UX/UI Design"
+            detail3="UX Design"
             detail4="Visual Design"
             team1="2 Designers"
             team2="1 Project Manager"

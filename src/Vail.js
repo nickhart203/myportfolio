@@ -150,12 +150,6 @@ function Vail(props) {
           />
           <ProjectImage image={vail20} alt="Coachella Design System" />
           <ProjectResults
-            detail1=""
-            detail2=""
-            detail3=""
-            detail4=""
-            team1=""
-            timeline1=""
             header="The results"
             body="Vail was convinced in the direction we provided and understood the importance of a comprehensive help center. Thus, Vail worked with Zendesk to create a repository of all things customer resources. The help center has successfully reduced call volume and labor required to keep customers informed and stress-free."
             linkCallout="View live at "

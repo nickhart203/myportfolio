@@ -27,7 +27,7 @@ function Coalesse(props) {
         >
           <WorkHeroVideoAddShadow video="https://player.vimeo.com/video/459767376?api=1&amp;autoplay=1&amp;background=1&amp;loop=1&amp;muted=1" />
           <ProjectDescription
-            detail1="UX/UI Design"
+            detail1="UX Design"
             detail2="Visual Design"
             detail3="Strategy"
             detail4="Animation"

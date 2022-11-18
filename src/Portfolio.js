@@ -25,9 +25,9 @@ function Portfolio(props) {
             newclass=""
           />
           <ProjectDescriptionFn
-            detail1="UX / UI Design"
-            detail2="React"
-            detail3=""
+            detail1="UX Design"
+            detail2="Visual Design"
+            detail3="React"
             detail4=""
             team1="1 Designer / Developer"
             timeline1="3 months"

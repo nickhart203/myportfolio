@@ -105,14 +105,14 @@ function Work(props) {
               link="/consensys"
               image={consensysThumb}
               title="ConsenSys Developer"
-              subtext="UX/UI Website Design"
+              subtext="Website Design"
               alt="ConsenSys developer platform"
            />
           <Thumbnail
               link="/coalesse"
               image={coalesseThumb}
               title="Coalesse"
-              subtext="UX/UI Website Design"
+              subtext="Website Design"
               alt="Coalesse Website Redesign"
             />
           <Thumbnail
