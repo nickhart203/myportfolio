@@ -208,6 +208,9 @@ div.About {
   padding: 0 0 4px 0;
   max-width: 800px;
 }
+.grayText{
+  color: #9697A2;
+}
 /*thumbnail style*/
 .thumbnail-container {
   max-width: 82vw;

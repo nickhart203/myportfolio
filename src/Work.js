@@ -39,11 +39,13 @@ function Work(props) {
       <motion.ul initial="hidden" animate="visible" variants={list}>
         <div className="intro-textContainer">
           <div className="intro-text">
-            <h1>
-              <motion.li variants={item}>I'm Nick. ✌️ I enjoy </motion.li>
-              <motion.li variants={item}>interaction, motion, and </motion.li>
-              <motion.li variants={item}>brand design. Let me know </motion.li>
-              <motion.li variants={item}>if you want to chat! ✨</motion.li>
+          <h1>
+            <div className="grayText">
+              <motion.li variants={item}>I'm Nick. </motion.li>
+            </div>            
+              <motion.li variants={item}>I design products and </motion.li>
+              <motion.li variants={item}>experiences. Let me know </motion.li>
+              <motion.li variants={item}>if you want to chat!</motion.li>
             </h1>
           </div>
           <motion.li variants={item}>
