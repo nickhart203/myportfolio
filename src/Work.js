@@ -51,7 +51,7 @@ function Work(props) {
           <motion.li variants={item}>
             <div className="intro-contact">
               <p>
-                Get in touch:{" "}
+                Contact:{" "}
                 <a
                   href="mailto:hello.nickhart@gmail.com"
                   className="line-link-sm"
