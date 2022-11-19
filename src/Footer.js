@@ -1,11 +1,12 @@
 import React from "react";
 import "./App.css";
 import SocialIcon from "./socialIcon.js";
-import svgLinkedin from "./assets/svg/01-linkedin-2x.svg";
-import svgDribbble from "./assets/svg/01-dribbble-2x.svg";
-import svgYoutube from "./assets/svg/01-youtube-2x.svg";
-import svgTwitter from "./assets/svg/01-twitter-2x.svg";
-import svgInstagram from "./assets/svg/01-instagram-2x.svg";
+import svgLinkedin from "./assets/svg/01-linkedin.svg";
+import svgDribbble from "./assets/svg/01-dribbble.svg";
+import svgYoutube from "./assets/svg/01-youtube.svg";
+import svgTwitter from "./assets/svg/01-twitter.svg";
+import svgGithub from "./assets/svg/01-github.svg";
+import svgInstagram from "./assets/svg/01-instagram.svg";
 
 function Footer() {
   return (
@@ -27,8 +28,8 @@ function Footer() {
         image={svgYoutube}
       />
       <SocialIcon
-        link="https://www.instagram.com/cubeycap/"
-        image={svgInstagram}
+        link="https://github.com/nickhart203/"
+        image={svgGithub}
       />
     </div>
     </div>
