@@ -51,17 +51,6 @@ function Work(props) {
           <motion.li variants={item}>
             <div className="intro-contact">
               <p>
-                See what I'm doing on{" "}
-                <a
-                  href="http://www.dribbble.com/cubeycap"
-                  className="line-link-sm"
-                  target="_blank"
-                >
-                  dribbble.
-                </a>
-              </p>
-
-              <p>
                 Get in touch:{" "}
                 <a
                   href="mailto:hello.nickhart@gmail.com"
