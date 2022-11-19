@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4a0f19aa370691e2d1f8171eda7e35d8",
+    "revision": "cb861ecc0752b106d593bfd48453192d",
     "url": "/index.html"
   },
   {
-    "revision": "e46491702f3fada458e7",
-    "url": "/static/css/main.9d106864.chunk.css"
+    "revision": "f93bc0ff4996f9dd30f8",
+    "url": "/static/css/main.d970fc47.chunk.css"
   },
   {
-    "revision": "773e9e7d1a73d353f3c7",
-    "url": "/static/js/2.5307187f.chunk.js"
+    "revision": "ef82cef014b67db67219",
+    "url": "/static/js/2.d7af249c.chunk.js"
   },
   {
     "revision": "c87550333da8df8ab4c80bd1d6e9defb",
-    "url": "/static/js/2.5307187f.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.d7af249c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e46491702f3fada458e7",
-    "url": "/static/js/main.454aa410.chunk.js"
+    "revision": "f93bc0ff4996f9dd30f8",
+    "url": "/static/js/main.db99230a.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
@@ -25,23 +25,27 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "4dd6575cad02055117eec7b660b27ec9",
-    "url": "/static/media/01-dribbble-2x.4dd6575c.svg"
+    "url": "/static/media/01-dribbble.4dd6575c.svg"
+  },
+  {
+    "revision": "109b65f8c3079d32177d4d73688697fa",
+    "url": "/static/media/01-github.109b65f8.svg"
   },
   {
     "revision": "c17bd8b1bd616966f7aafbc868fb1b79",
-    "url": "/static/media/01-instagram-2x.c17bd8b1.svg"
+    "url": "/static/media/01-instagram.c17bd8b1.svg"
   },
   {
     "revision": "4782db4ecca7119e77f8ab658290a469",
-    "url": "/static/media/01-linkedin-2x.4782db4e.svg"
+    "url": "/static/media/01-linkedin.4782db4e.svg"
   },
   {
     "revision": "998ba62887eaced4119a6d0ac1e5d5cb",
-    "url": "/static/media/01-twitter-2x.998ba628.svg"
+    "url": "/static/media/01-twitter.998ba628.svg"
   },
   {
     "revision": "b5f06b8932cfd7137fb2ae57631186fc",
-    "url": "/static/media/01-youtube-2x.b5f06b89.svg"
+    "url": "/static/media/01-youtube.b5f06b89.svg"
   },
   {
     "revision": "d16c16793afc846aef845410b7a761be",
