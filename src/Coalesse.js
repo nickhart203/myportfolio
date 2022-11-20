@@ -36,6 +36,7 @@ function Coalesse(props) {
             team2="1 Design Director"
             team3="1 Project Manager"
             team4="2 Engineers"
+            role1="Designer"
             timeline1="3 months"
             header="Bringing a beautiful brand forward to shine in today's digital landscape"
             body="Coalesse is a place interior designers can go to when they need to spec their work. Here, they have access to furniture and material specs, as well as project ideas and other helpful resources. The problem Coalesse was facing was that they sensed their web experience was failing to remain as a top option for interior designers when compared to their competitors. "

@@ -23,6 +23,7 @@ function Hexa(props) {
             detail3="Branding"
             detail4=""
             team1="2 Designers"
+            role1="Interaction designer"
             timeline="2 weeks"
             header="Showcasing a new look with style"
             body="Upon launching the new website for Hexa Custom, I was tapped to create an engaging animation to show some of the features found within the site. I had a lot of fun jumping into After Effects as I weaved together UI animation with more traditional motion graphics inside the case study piece."

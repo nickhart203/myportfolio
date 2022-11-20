@@ -34,6 +34,7 @@ function Consensys(props) {
             team2="1 Project Manager"
             team3=""
             team4=""
+            role1="Designer"
             timeline1="4 weeks"
             header="Ushering in a new wave of Web3 developers"
             body="ConsenSys came to us with a problem. They had just acquired a full suite of Web3 developer tools but while they became a leader in web3 virtually overnight, no one knew to vet them as a valid option for their new projects. "

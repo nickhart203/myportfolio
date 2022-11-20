@@ -32,6 +32,7 @@ function Drumnow(props) {
             team1="1 Designer" 
             team2="1 Product Manager" 
             team3="10 Engineers" 
+            role1="Lead designer"
             timeline1="6+ months"
             header="Compliance-focused cannabis delivery software"
             body="WM Dispatch is currently in progress and there will be more to come. If you wish to see the full project in its current state, please reach out!"

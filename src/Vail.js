@@ -58,6 +58,7 @@ function Vail(props) {
             team3=""
             team4=""
             team5=""
+            role1="Lead researcher"
             timeline1="5 weeks"
             header="A problem in self-service"
             body="Vail approached the team with the problem of bad customer service experiences, which became even more prevalent during the COVID pandemic. The current set of customer service and self-service that existed on the website was put to the test through massive call volumes and frustrated guests who couldn’t get clear answers to their questions. What’s more, the Vail Resorts property websites didn’t have an FAQ page—only specific page locations contained FAQ content."

@@ -30,6 +30,12 @@ function ProjectDescriptionUp(props) {
               </div>
               <div className="col-sm inline-block">
                 <ul>
+                  <h5>Role</h5>
+                  <li>{props.role1}</li>
+                </ul>
+              </div>
+              <div className="col-sm inline-block">
+                <ul>
                   <h5>Timeline</h5>
                   <li>{props.timeline1}</li>
                   <li>{props.timeline2}</li>
