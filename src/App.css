@@ -543,11 +543,9 @@ line-height: 40px;
     line-height: 80px;
     margin-top: 0.3em;
   }
-  .intro-textContainer {
-    
-  }
-  .thumbnail-container {
-    
+  .line-link::after {
+    margin-top: -10px;
+    height: 3px;
   }
   .pageContainer {
     padding: 225px 0 0 0;
