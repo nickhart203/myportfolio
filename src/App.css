@@ -55,7 +55,7 @@ p {
 }
 h1 {
   font-size: 64px;
-  letter-spacing: -0.1rem;
+  letter-spacing: -0.15rem;
   font-weight: 400;
   line-height: 72px;
   margin-top: 0.3em;
@@ -212,7 +212,7 @@ div.About {
   max-width: 800px;
 }
 .intro-contact {
-  max-width: 840px;
+  max-width: 880px;
   border-top: 1px solid #dbdcdf;
   border-bottom: 1px solid #dbdcdf;
 }
@@ -560,7 +560,7 @@ line-height: 40px;
     width: 20px !important;
   }
   .intro-text {
-    max-width: 840px;
+    max-width: 880px;
   }
   .logo,
   div.nav-items {
