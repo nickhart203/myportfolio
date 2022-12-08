@@ -5,6 +5,7 @@ import WorkHeroVideo from "./WorkHeroVideo.js";
 import WorkHeroImage from "./WorkHeroImage.js";
 import ProjectDescription from "./ProjectDescription.js";
 import ProjectResults from "./ProjectResults.js";
+import ProjectResultsStats from "./ProjectResultsStats.js";
 import ProjectDescriptionUp from "./ProjectDescriptionUp.js";
 import ProjectImage from "./ProjectImage.js";
 import ProjectImageLast from "./ProjectImageLast.js";
@@ -117,6 +118,14 @@ function USN(props) {
             linkCallout=""
             href=""
             linkTitle=""
+          />
+          <ProjectResultsStats
+            number1="Decreased"
+            meta1="Average # of expired documents"
+            number2="Increased"
+            meta2="Account setup completion rate"
+            number3="Improved"
+            meta3="Brand trust & credibility"
           />
         </motion.div>
       </div>

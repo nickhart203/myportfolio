@@ -4,6 +4,7 @@ import WorkHeader from "./WorkHeader.js";
 import WorkHeroImage from "./WorkHeroImage.js";
 import ProjectDescription from "./ProjectDescription.js";
 import ProjectResults from "./ProjectResults.js";
+import ProjectResultsStats from "./ProjectResultsStats.js";
 import ProjectImage from "./ProjectImage.js";
 import ProjectTextRight from "./ProjectTextRight.js";
 import ProjectTextRightUp from "./ProjectTextRightUp.js";
@@ -156,6 +157,14 @@ function Vail(props) {
             linkCallout="View live at "
             href="https://vail.zendesk.com/hc/en-us"
             linkTitle="Vail Help Center"
+          />
+          <ProjectResultsStats
+            number1="Reduced"
+            meta1="Total call volume"
+            number2="Created"
+            meta2="First ever help center"
+            number3=""
+            meta3=""
           />
         </motion.div>
       </div>
