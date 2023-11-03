@@ -49,7 +49,7 @@ function Social(props) {
           whileTap={{ scale: 0.9 }}
         >
           <SocialIcon
-            link="http://www.dribbble.com/cubeycap"
+            link="http://www.dribbble.com/nickhart"
             image={svgDribbble}
           />
         </motion.div>
@@ -59,7 +59,7 @@ function Social(props) {
             transition: { ease: "easeOut", duration: 0.4 },
           }}
           whileTap={{ scale: 0.9 }}
-        >        
+        >
           <SocialIcon
             link="https://github.com/nickhart203/"
             image={svgGithub}
